@@ -1,0 +1,6 @@
+[submodule "pretty-derby"]
+	path = pretty-derby
+	url = https://github.com/wrrwrr111/pretty-derby.git
+[submodule "umamusume_skill_parser"]
+	path = umamusume_skill_parser
+	url = https://github.com/chinosk114514/umamusume-skill-code-converter.git

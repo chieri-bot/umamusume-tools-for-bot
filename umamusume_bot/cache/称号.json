@@ -1,0 +1,2893 @@
+[
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1c/9wre5a6key6s624oqte0lwrlk81r4vo.png/180px-Honor_100101.png",
+        "title_jp": "新人トレーナー",
+        "title_cn": "新人训练员",
+        "desc_jp": "初期所持",
+        "desc_cn": "初期持有"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/91/nax5kzdkcaldgys5xr4jt9p43tyl9ni.png/180px-Honor_100102.png",
+        "title_jp": "頼れるトレーナー",
+        "title_cn": "可靠训练员",
+        "desc_jp": "チームランク[D]に到達させよう",
+        "desc_cn": "队伍等级到达[D]"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8e/12s9mvzkeklldx1fo0k38rqjjx8fff2.png/180px-Honor_100103.png",
+        "title_jp": "ベテラントレーナー",
+        "title_cn": "资深训练员",
+        "desc_jp": "チームランク[B]に到達させよう",
+        "desc_cn": "队伍等级到达[B]"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1f/kn0m7b224pkjr2lewu4q2mjqo9l1imx.png/180px-Honor_100104.png",
+        "title_jp": "トップトレーナー",
+        "title_cn": "顶级训练员",
+        "desc_jp": "チームランク[A]に到達させよう",
+        "desc_cn": "队伍等级到达[A]"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a3/fpvcpc4xtgwx9hlb59oh1tn7hlxb9zn.png/180px-Honor_100105.png",
+        "title_jp": "スタートレーナー",
+        "title_cn": "明星训练员",
+        "desc_jp": "チームランク[S]に到達させよう",
+        "desc_cn": "队伍等级到达[S]"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c3/jpgq5vaqs2teiwvevwr029m0y9tsv63.png/180px-Honor_100106.png",
+        "title_jp": "レジェンドトレーナー",
+        "title_cn": "传奇训练员",
+        "desc_jp": "チームランク[SS]に到達させよう",
+        "desc_cn": "队伍等级到达[SS]"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e4/ouv446q4zs0z5j08vb9pc58h3ny21qe.png/180px-Honor_100120.png",
+        "title_jp": "1000本ダッシュ",
+        "title_cn": "1000次冲刺",
+        "desc_jp": "育成で育成目標を1000回クリアしよう",
+        "desc_cn": "在育成中达成1000次育成目标吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ad/n5zf6hi3hh9fzdy811zyse981td0wih.png/180px-Honor_100130.png",
+        "title_jp": "グッドコンディション",
+        "title_cn": "正面状态",
+        "desc_jp": "育成で良いコンディションを100回発生させよう",
+        "desc_cn": "在育成中获得100次正面育成状态吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/56/5qpcj5qoe58c59zzjtcp6tmu6b3cdqg.png/180px-Honor_100150.png",
+        "title_jp": "ファイナルズ・チャンピオン",
+        "title_cn": "最终的冠军",
+        "desc_jp": "育成でURAファイナルズ決勝に勝利しよう",
+        "desc_cn": "在育成中赢得URA最终决赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/65/hjg6wo8hqxlc8bnvuagox4yce3k52jk.png/180px-Honor_100151.png",
+        "title_jp": "八大競走完全制覇",
+        "title_cn": "八大赛事完全制霸",
+        "desc_jp": "育成で八大競走を全て勝利しよう",
+        "desc_cn": "在育成中赢得八大赛事吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8f/dvtfngs7p7feidamqiv60gu7jg3lafb.png/180px-Honor_100170.png",
+        "title_jp": "クレーンゲームの達人",
+        "title_cn": "娃娃机达人",
+        "desc_jp": "クレーンゲームでぬいぐるみを10個以上獲得してクリアしよう",
+        "desc_cn": "在抓娃娃游戏一次获得10个以上的布娃娃吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/26/72axmlvsrzr7o6onhghxy75dnlzsv00.png/180px-Honor_100171.png",
+        "title_jp": "ぱかプチコレクター",
+        "title_cn": "小小收藏家",
+        "desc_jp": "クレーンゲームでぬいぐるみを300個獲得しよう",
+        "desc_cn": "在抓娃娃游戏中获得300个以上的布娃娃吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/04/9ixmwx1ash73ihnlch8kwg55blv7u4c.png/180px-Honor_100180.png",
+        "title_jp": "スーパープロデューサー",
+        "title_cn": "超级制作人",
+        "desc_jp": "ファン数を100万人以上にして育成を完了しよう",
+        "desc_cn": "在育成中让粉丝数达到100万人以上吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/59/fq2rqqpkr6qmrplbrxt6x4i5tfmdwa9.png/180px-Honor_100181.png",
+        "title_jp": "短距離鍛錬",
+        "title_cn": "短距离锻炼",
+        "desc_jp": "育成で短距離適性[E]以下のウマ娘で短距離の重賞に２着以内",
+        "desc_cn": "在育成中让短距离适性[E]以下的马娘在短距离的重赏中进入前2名吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7a/onp8h8jeoad3msaejnm3r4fc6u5roih.png/180px-Honor_100182.png",
+        "title_jp": "マイル鍛錬",
+        "title_cn": "英里赛锻炼",
+        "desc_jp": "育成でマイル適性[E]以下のウマ娘でマイルの重賞に２着以内",
+        "desc_cn": "在育成中让英里赛适性[E]以下的马娘在英里赛的重赏中进入前2名吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/42/rglgeibp29fv0l4tb8zwwp0bq14wm58.png/180px-Honor_100183.png",
+        "title_jp": "中距離鍛錬",
+        "title_cn": "中距离锻炼",
+        "desc_jp": "育成で中距離適性[E]以下のウマ娘で中距離の重賞に２着以内",
+        "desc_cn": "在育成中让中距离适性[E]以下的马娘在中距离的重赏中进入前2名吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/36/4s2r8mufm3eseru622ucdpkgwmogumw.png/180px-Honor_100184.png",
+        "title_jp": "長距離鍛錬",
+        "title_cn": "长距离锻炼",
+        "desc_jp": "育成で長距離適性[E]以下のウマ娘で長距離の重賞に２着以内",
+        "desc_cn": "在育成中让长距离适性[E]以下的马娘在长距离的重赏中进入前2名吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7d/gi2e2i1enh50m29qkfp9emi2r2zhf89.png/180px-Honor_100185.png",
+        "title_jp": "ダート鍛錬",
+        "title_cn": "泥地赛锻炼",
+        "desc_jp": "育成でダート適性[E]以下のウマ娘でダートの重賞に２着以内",
+        "desc_cn": "在育成中让泥地赛适性[E]以下的马娘在泥地赛的重赏中进入前2名吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/80/935qrlpjn1rrk8cbg6z9uxc88qqu4t7.png/180px-Honor_100186.png",
+        "title_jp": "完全適性",
+        "title_cn": "完全适应性",
+        "desc_jp": "バ場適性、距離適性、脚質適性にそれぞれ[S]がある状態で育成完了",
+        "desc_cn": "在马场适应性、距离适应性、脚质适应性均有[S]的状态下完成育成"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4e/dknxs41981r71ukfsr0rz8ly027moc9.png/180px-Honor_100187.png",
+        "title_jp": "Eclipse",
+        "title_cn": "黯然失色",
+        "desc_jp": "育成でURAファイナルズ決勝を大差勝ちしよう",
+        "desc_cn": "在育成中以大差赢得URA总决赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bc/6olwex4miqdewyit7wd2jxdtsosaipd.png/180px-Honor_100188.png",
+        "title_jp": "お散歩大好き",
+        "title_cn": "超喜欢散步",
+        "desc_jp": "育成で河原に30回でかけよう",
+        "desc_cn": "在育成中去30次河滩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ea/efxifjdm57nfiapc3z7gq99e5rf411q.png/180px-Honor_100190.png",
+        "title_jp": "温泉博士",
+        "title_cn": "温泉博士",
+        "desc_jp": "かけがえのない絆を感じるひとときを過ごそう",
+        "desc_cn": "度过一段能够感受到无可替代之羁绊的时光吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/ff/ehq7sswtia1z2pie491tbdrt2axmluj.png/180px-Honor_100191.png",
+        "title_jp": "温泉伝説",
+        "title_cn": "温泉传说",
+        "desc_jp": "18人のウマ娘とかけがえのない絆を感じるひと時を過ごそう",
+        "desc_cn": "与18位马娘一起度过一段能感受到无可替代之羁绊的时光吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/04/pn1ypx14g05mcp3elrskk8gwi8vvdf2.png/180px-Honor_100201.png",
+        "title_jp": "上手",
+        "title_cn": "拿手",
+        "desc_jp": "育成ランク[S]以上の育成ウマ娘を10回育成しよう",
+        "desc_cn": "育成10次育成等级[S]以上的马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/79/4md0sslywty223x6rais7uyr4d95xii.png/180px-Honor_100202.png",
+        "title_jp": "名人",
+        "title_cn": "专家",
+        "desc_jp": "育成ランク[S]以上の育成ウマ娘を50回育成しよう",
+        "desc_cn": "育成50次育成等级[S]以上的马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fe/dg2fhhldw8tv45b4m70ya19u3rjpv81.png/180px-Honor_100203.png",
+        "title_jp": "達人",
+        "title_cn": "达人",
+        "desc_jp": "育成ランク[S]以上の育成ウマ娘を200回育成しよう",
+        "desc_cn": "育成200次育成等级[S]以上的马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d7/fi4eynt03scabdx8cqsxedso1xtz93l.png/180px-Honor_100204.png",
+        "title_jp": "名伯楽",
+        "title_cn": "伯乐",
+        "desc_jp": "育成ランク[S]以上の育成ウマ娘を500回育成しよう",
+        "desc_cn": "育成500次育成等级[S]以上的马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/62/ko5jb45atfwuufntqdj91ora8kr43ta.png/180px-Honor_100301.png",
+        "title_jp": "期待の新鋭",
+        "title_cn": "令人期待的新锐",
+        "desc_jp": "GⅠのレースを100勝しよう",
+        "desc_cn": "赢得100次GⅠ比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8a/l5egm9c445ihoqfm5h7z34zaetxn4uw.png/180px-Honor_100302.png",
+        "title_jp": "歴戦の猛者",
+        "title_cn": "身经百战的强者",
+        "desc_jp": "GⅠのレースを500勝しよう",
+        "desc_cn": "赢得500次GⅠ比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/54/dji561bkl0tm4xi1t7n0mts4yqudm8q.png/180px-Honor_100303.png",
+        "title_jp": "新たなる伝説",
+        "title_cn": "新的传说",
+        "desc_jp": "GⅠのレースを1000勝しよう",
+        "desc_cn": "赢得1000次GⅠ比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/98/5ar14dh30am3gdjimsqx86k0l8eculp.png/180px-Honor_100304.png",
+        "title_jp": "天下無双",
+        "title_cn": "天下无双",
+        "desc_jp": "GⅠのレースを2000勝しよう",
+        "desc_cn": "赢得2000次GⅠ比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7b/h2aku3dljs6v3697uzq0tfr2etcme2a.png/180px-Honor_100401.png",
+        "title_jp": "GⅢ制覇",
+        "title_cn": "GⅢ制霸",
+        "desc_jp": "GⅢのトロフィーを69個あつめよう",
+        "desc_cn": "收集69个GⅢ奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2d/ti1y0qh1i0yvum7zlwzt9qcs9edckww.png/180px-Honor_100402.png",
+        "title_jp": "GⅡ制覇",
+        "title_cn": "GⅡ制霸",
+        "desc_jp": "GⅡのトロフィーを36個あつめよう",
+        "desc_cn": "收集36个GⅡ奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/08/e1oggmhttvvk0bgbtewz5wt1f9zo55l.png/180px-Honor_100403.png",
+        "title_jp": "GⅠ制覇",
+        "title_cn": "GⅠ制霸",
+        "desc_jp": "GⅠのトロフィーを30個あつめよう",
+        "desc_cn": "收集30个GⅠ奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d2/cuqx5tdsfzvz39gnn38t398vopekt4m.png/180px-Honor_100501.png",
+        "title_jp": "札幌リーディング",
+        "title_cn": "札幌领跑者",
+        "desc_jp": "育成で札幌レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场札幌竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d4/2t5vhav85b5xgz6k7aveepjj3imlbuj.png/180px-Honor_100502.png",
+        "title_jp": "函館リーディング",
+        "title_cn": "函馆领跑者",
+        "desc_jp": "育成で函館レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场函馆竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4b/jkcxsec9jd6as4qmawtx7zolko6s3vg.png/180px-Honor_100503.png",
+        "title_jp": "新潟リーディング",
+        "title_cn": "新泻领跑者",
+        "desc_jp": "育成で新潟レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场新潟竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/42/7c9oy8jywgkskyw6ll9xwe1droed0iq.png/180px-Honor_100504.png",
+        "title_jp": "福島リーディング",
+        "title_cn": "福岛领跑者",
+        "desc_jp": "育成で福島レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场福岛竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/97/a5sz75wg7g6az6z64bmjvej3tg1kjli.png/180px-Honor_100505.png",
+        "title_jp": "中山リーディング",
+        "title_cn": "中山领跑者",
+        "desc_jp": "育成で中山レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场中山竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/27/cxojijh8sgf4ql491o3k45n9w778wo1.png/180px-Honor_100506.png",
+        "title_jp": "東京リーディング",
+        "title_cn": "东京领跑者",
+        "desc_jp": "育成で東京レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场东京竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d2/ncjv02vmlfcs18etpbho8txnvnfw056.png/180px-Honor_100507.png",
+        "title_jp": "中京リーディング",
+        "title_cn": "中京领跑者",
+        "desc_jp": "育成で中京レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场中京竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/60/kqbhdgw6j557t7es11ejbz2lakf03nt.png/180px-Honor_100508.png",
+        "title_jp": "京都リーディング",
+        "title_cn": "京都领跑者",
+        "desc_jp": "育成で京都レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场京都竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/ce/bzpb3hpxmu91t3zkb5lhfwo0189zcqn.png/180px-Honor_100509.png",
+        "title_jp": "阪神リーディング",
+        "title_cn": "阪神领跑者",
+        "desc_jp": "育成で阪神レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场阪神竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/23/4ps1zxdzafzhwp0kbky8q4oj2gu9es7.png/180px-Honor_100510.png",
+        "title_jp": "小倉リーディング",
+        "title_cn": "小仓领跑者",
+        "desc_jp": "育成で小倉レース場のレースを200勝しよう",
+        "desc_cn": "在育成中赢得200场小仓竞马场的比赛吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4a/cb008lgkuxcja5tf76hchdfw6oeyawk.png/180px-Honor_100530.png",
+        "title_jp": "STEP BY STEP",
+        "title_cn": "循序渐进",
+        "desc_jp": "デイリーレースで100勝しよう",
+        "desc_cn": "在每日比赛中取得100胜吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/67/62bwaydoz4239bpytk65xifm2qm57ip.png/180px-Honor_100540.png",
+        "title_jp": "伝説への第一歩",
+        "title_cn": "迈向传说的第一步",
+        "desc_jp": "レジェンドレースで1勝しよう",
+        "desc_cn": "在传奇比赛中赢得1场胜利吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/01/07wghg7tu0xnxeea5j1thw9pkutlpb9.png/180px-Honor_100541.png",
+        "title_jp": "レジェンドキラー",
+        "title_cn": "传奇杀手",
+        "desc_jp": "レジェンドレースで100勝しよう",
+        "desc_cn": "在传奇比赛中赢得100场胜利吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/51/mhurge566bsrwqso5j29yocvdo2kj06.png/180px-Honor_100550.png",
+        "title_jp": "チーム一丸",
+        "title_cn": "齐心协力",
+        "desc_jp": "チーム競技場を100回プレイしよう",
+        "desc_cn": "进行100次团队竞技吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/91/o76k0nnsj8paed8w87zqwvy7yu3l27j.png/180px-Honor_100551.png",
+        "title_jp": "トップクラス",
+        "title_cn": "最高等级",
+        "desc_jp": "チーム競技場でCLASS 6に到達しよう",
+        "desc_cn": "在团队竞技场中到达CLASS6吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c8/q02dkec1nwzdnoba91p6mj6pmh0eqfn.png/180px-Honor_100552.png",
+        "title_jp": "トレジャーハンター",
+        "title_cn": "宝藏猎人",
+        "desc_jp": "チーム競技場でウイニング報酬を100回獲得しよう",
+        "desc_cn": "在团队竞技场中获得100次胜利报酬吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5a/dzd9pdjrja7tf48o6ajy23qxad636gh.png/180px-Honor_100601.png",
+        "title_jp": "うまぴょい伝説",
+        "title_cn": "马儿跃动的传说",
+        "desc_jp": "うまぴょい伝説を見よう",
+        "desc_cn": "来看看《うまぴょい伝説》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/06/cwfusru6e7db1zepcqqb55g3n0j65y0.png/180px-Honor_100602.png",
+        "title_jp": "彩 Phantasia",
+        "title_cn": "彩色幻想曲",
+        "desc_jp": "彩 Phantasiaを見よう",
+        "desc_cn": "来看看《彩 Phantasia》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/93/fwcwudx4ws5ywibizf5528v70t75e0e.png/180px-Honor_100603.png",
+        "title_jp": "Make debut!",
+        "title_cn": "初次登场！",
+        "desc_jp": "Make debut!を見よう",
+        "desc_cn": "来看看《Make debut!》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/02/076ybr1apkvulh6mwvdum8mdf1f21vd.png/180px-Honor_100604.png",
+        "title_jp": "ENDLESS DREAM!!",
+        "title_cn": "永不停歇的梦!!",
+        "desc_jp": "ENDLESS DREAM!!を見よう",
+        "desc_cn": "来看看《ENDLESS DREAM!!》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cc/fwwi4c56faunyixz1n70cgcz22c2z52.png/180px-Honor_100605.png",
+        "title_jp": "NEXT FRONTIER",
+        "title_cn": "新天地",
+        "desc_jp": "NEXT FRONTIERを見よう",
+        "desc_cn": "来看看《NEXT FRONTIER》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/db/fzurbjw1cylygwas7toazuc82w0pbi0.png/180px-Honor_100606.png",
+        "title_jp": "UNLIMITED IMPACT",
+        "title_cn": "不可估量",
+        "desc_jp": "UNLIMITED IMPACTを見よう",
+        "desc_cn": "来看看《UNLIMITED IMPACT》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5f/i9fccejcni8weym3qjue56klqht90cq.png/180px-Honor_100607.png",
+        "title_jp": "Special Record!",
+        "title_cn": "特别记录!",
+        "desc_jp": "Special Record!を見よう",
+        "desc_cn": "来看看《Special Record!》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bf/nsnylx8wu22ngrlvcc7wz3o465epiz0.png/180px-Honor_100608.png",
+        "title_jp": "はじまりのSignal",
+        "title_cn": "启程的信号",
+        "desc_jp": "はじまりのSignalを見よう",
+        "desc_cn": "来看看《はじまりのSignal》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ac/5dnjg6wr0x0ph7fq31x6mtbyeljb2ex.png/180px-Honor_100609.png",
+        "title_jp": "ささやかな祈り",
+        "title_cn": "小小的祈愿",
+        "desc_jp": "ささやかな祈りを見よう",
+        "desc_cn": "来看看《ささやかな祈り》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e6/mwvm16x6tztgogynzn4ilen0d3i1850.png/180px-Honor_100610.png",
+        "title_jp": "本能スピード",
+        "title_cn": "本能的速度",
+        "desc_jp": "本能スピードを見よう",
+        "desc_cn": "来看看《本能スピード》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/eb/e19hu1xpoie0ywh9qui16swcbmw6o8v.png/180px-Honor_100611.png",
+        "title_jp": "winning the soul",
+        "title_cn": "胜利之心",
+        "desc_jp": "winning the soulを見よう",
+        "desc_cn": "来看看《winning the soul》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/95/eamr5n47fnpj4wthq4b9q9o4k38krcr.png/180px-Honor_100612.png",
+        "title_jp": "ユメヲカケル！",
+        "title_cn": "逐梦!",
+        "desc_jp": "ユメヲカケル！を見よう",
+        "desc_cn": "来看看《ユメヲカケル！》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ed/iffl8jc00p7jevm98qps7n7k273gw4a.png/180px-Honor_100613.png",
+        "title_jp": "夢の三連覇",
+        "title_cn": "梦想的三连冠",
+        "desc_jp": "特定の編成でユメヲカケル！を見よう",
+        "desc_cn": "以特定的马娘组合来观看《ユメヲカケル！》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/18/swzp4uaey2y4ensglwbyi3xm2ewq8lx.png/180px-Honor_100614.png",
+        "title_jp": "涙ひかって明日になれ！",
+        "title_cn": "用泪水闪耀着迎接明天吧！",
+        "desc_jp": "涙ひかって明日になれ！を見よう",
+        "desc_cn": "来看看《涙ひかって明日になれ！》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a0/89e9px0admsz6vkgeoqlom2r6uc7lcc.png/180px-Honor_100616.png",
+        "title_jp": "BLAZE",
+        "title_cn": "爆炎",
+        "desc_jp": "BLAZEを見よう",
+        "desc_cn": "来看看《BLAZE》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a6/3edkstw5bt5ogjv5kh7fdpel9wg9rs9.png/180px-Honor_100617.png",
+        "title_jp": "Never Looking Back",
+        "title_cn": "永不回头",
+        "desc_jp": "Never Looking Backを見よう",
+        "desc_cn": "来看看《Never Looking Back》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3c/7qkziem18pg3inrh0c0g56srwtktujl.png/180px-Honor_100618.png",
+        "title_jp": "WINnin’ 5 －ウイニング☆ファイヴ－",
+        "title_cn": "WINnin’ 5 －胜利☆五人组",
+        "desc_jp": "WINnin’ 5 －ウイニング☆ファイヴ－を見よう",
+        "desc_cn": "来看看《WINnin’ 5 －ウイニング☆ファイヴ－》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/59/qikysgtrf9o535n1zbjyktjx2ke4geg.png/180px-Honor_100619.png",
+        "title_jp": "ぴょいっと♪はれるや！",
+        "title_cn": "piu~一下♪放晴吧！",
+        "desc_jp": "ぴょいっと♪はれるや！を見よう",
+        "desc_cn": "来看看《ぴょいっと♪はれるや！》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/be/mk5imnkbwm9fzdk4csfs6touytuzg2d.png/180px-Honor_100620.png",
+        "title_jp": "transforming",
+        "title_cn": "蜕变",
+        "desc_jp": "transformingを見よう",
+        "desc_cn": "来看看《transforming》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/74/27hr62piroxgsuxshic7e65jxn0miu2.png/180px-Honor_100621.png",
+        "title_jp": "グロウアップ・シャイン！",
+        "title_cn": "成长吧・闪耀吧！",
+        "desc_jp": "グロウアップ・シャイン！を見よう",
+        "desc_cn": "来看看《グロウアップ・シャイン！》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/53/3j12rcnivvfkcubfgskfieic9k8pc7b.png/180px-Honor_100622.png",
+        "title_jp": "BLOW my GALE",
+        "title_cn": "卷起风暴",
+        "desc_jp": "BLOW my GALEを見よう",
+        "desc_cn": "来看看《BLOW my GALE》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3e/k4ez51nf0gtcjvjrehh0v358feyenqm.png/180px-Honor_100623.png",
+        "title_jp": "We are DREAMERS!!",
+        "title_cn": "我们是梦想家!!",
+        "desc_jp": "We are DREAMERS!!を見よう",
+        "desc_cn": "来看看《We are DREAMERS!!》吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e6/1g6zw2dc2n87b7rd24oj8hocdhjfvjx.png/180px-Honor_100701.png",
+        "title_jp": "引っ込み思案",
+        "title_cn": "畏缩不前",
+        "desc_jp": "累計フォロー数25人を達成しよう",
+        "desc_cn": "让累计关注人数达到25人"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5b/etd9ot90yynnbw7py4sm0nyt663uq38.png/180px-Honor_100702.png",
+        "title_jp": "コミュ力",
+        "title_cn": "社交能力",
+        "desc_jp": "累計フォロー数50人を達成しよう",
+        "desc_cn": "让累计关注人数达到50人"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0f/81btu9ffnws6qcn9wcrd0bzq32kxoep.png/180px-Honor_100703.png",
+        "title_jp": "人気者",
+        "title_cn": "红人",
+        "desc_jp": "累計フォロワー数100人を達成しよう",
+        "desc_cn": "让累计粉丝数达到100人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d5/cg3jauayiytj7tqkrp4h8uyxe3xv75s.png/180px-Honor_100704.png",
+        "title_jp": "著名人",
+        "title_cn": "名人",
+        "desc_jp": "累計フォロワー数200人を達成しよう",
+        "desc_cn": "让累计粉丝数达到200人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a4/m03cgo6v243w027h3cqx8ef1pe1xjbr.png/180px-Honor_100705.png",
+        "title_jp": "インフルエンサー",
+        "title_cn": "影响者",
+        "desc_jp": "代表ウマ娘を他のトレーナーに育成で100回使ってもらおう",
+        "desc_cn": "让其他训练员在育成中使用你的代表马娘100次吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2c/j8rwh1gfdj41jomb86gqqpom88to86e.png/180px-Honor_100801.png",
+        "title_jp": "ムードメーカー",
+        "title_cn": "气氛活跃者",
+        "desc_jp": "殿堂入りウマ娘をサークルチャットで共有しよう",
+        "desc_cn": "在公会聊天中共享殿堂马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9a/m45fm18qwx6noap7lekousj16sx17ad.png/180px-Honor_100802.png",
+        "title_jp": "アドバイザー",
+        "title_cn": "顾问",
+        "desc_jp": "殿堂入りウマ娘を他のトレーナーに練習で10回使ってもらおう",
+        "desc_cn": "让其他训练员在练习中使用你的殿堂马娘10次吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/aa/7w4gqp8j03p5pw2ku2cw52sf57ltlwy.png/180px-Honor_100803.png",
+        "title_jp": "引っ張りだこ",
+        "title_cn": "交口荐誉",
+        "desc_jp": "殿堂入りウマ娘を他のトレーナーに練習で100回使ってもらおう",
+        "desc_cn": "让其他训练员在练习中使用你的殿堂马娘100次吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a8/i54llcg5jo2e2mrtwmpq9nxjdn2khhp.png/180px-Honor_100804.png",
+        "title_jp": "練習コンサルタント",
+        "title_cn": "练习顾问",
+        "desc_jp": "殿堂入りウマ娘を他のトレーナーに練習で500回使ってもらおう",
+        "desc_cn": "让其他训练员在练习中使用你的殿堂马娘500次吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c8/mfyww5jcyh1d3fa89p3e116ju6q7cna.png/180px-Honor_101101.png",
+        "title_jp": "名スカウト",
+        "title_cn": "知名星探",
+        "desc_jp": "ウマ娘を15人獲得しよう",
+        "desc_cn": "获得15位赛马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/62/o1rb6n8abwbr17qdf5em2zhat2zvu02.png/180px-Honor_101102.png",
+        "title_jp": "伝説のスカウト",
+        "title_cn": "传奇星探",
+        "desc_jp": "ウマ娘を100人獲得しよう",
+        "desc_cn": "获得100位赛马娘吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5a/p8pau2lbgai0s2ojjvwznwk7pslzn9h.png/180px-Honor_101120.png",
+        "title_jp": "タレントメーカー",
+        "title_cn": "人才创造者",
+        "desc_jp": "才能開花で10人のウマ娘を★5にしよう",
+        "desc_cn": "通过才能开花让10位赛马娘达到★5吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/07/7f26b60pp64j1cllvlotyy5eq1x59rh.png/180px-Honor_101201.png",
+        "title_jp": "サポート収集家",
+        "title_cn": "支援卡收集者",
+        "desc_jp": "サポートカードを30種類獲得しよう",
+        "desc_cn": "获得30种支援卡吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/56/dlfkqa8k9qff96irjukufbdmcsiy6c9.png/180px-Honor_101202.png",
+        "title_jp": "サポートコレクター",
+        "title_cn": "支援卡收藏家",
+        "desc_jp": "サポートカードを250種類獲得しよう",
+        "desc_cn": "获得250种支援卡吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e2/amarttmmptogcgartjallsmfwlvkxo1.png/180px-Honor_101301.png",
+        "title_jp": "小金持ち",
+        "title_cn": "略有积蓄",
+        "desc_jp": "累積100万マニーためよう",
+        "desc_cn": "积累100万块钱吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/85/1cmfun5bym232m1jktya3yaxtvf967v.png/180px-Honor_101302.png",
+        "title_jp": "お金持ち",
+        "title_cn": "小有家财",
+        "desc_jp": "累積1000万マニーためよう",
+        "desc_cn": "积累1000万块钱吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ea/e00crno7tirjrxlhhp9j4s59dvw0v2y.png/180px-Honor_101400.png",
+        "title_jp": "ストーリーテラー",
+        "title_cn": "讲述者",
+        "desc_jp": "ストーリーを100種類閲覧しよう",
+        "desc_cn": "阅读100种故事"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9f/le5v9tmsq5vuzn9zbdsjhjbvxcm0358.png/180px-Honor_101401.png",
+        "title_jp": "駆け出しの一等星",
+        "title_cn": "初出茅庐的一等星",
+        "desc_jp": "メインストーリー第1章をすべて見よう",
+        "desc_cn": "看完主线第1章的全部内容吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/61/gqk0phxa81ur9eodvob6rjvohzscm8y.png/180px-Honor_101402.png",
+        "title_jp": "小さながんばり屋",
+        "title_cn": "羽毛未丰的努力家",
+        "desc_jp": "メインストーリー第2章をすべて見よう",
+        "desc_cn": "看完主线第2章的全部内容吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/70/npv31vnm7yyzesqfyvgn7bydln5pp1l.png/180px-Honor_101403.png",
+        "title_jp": "夢を掴む特急券",
+        "title_cn": "通往梦想的特急票",
+        "desc_jp": "メインストーリー第3章をすべて見よう",
+        "desc_cn": "看完主线第3章的全部内容吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/68/bhwcan0a71nf7h0z590ncr1aukp3y9v.png/180px-Honor_101404.png",
+        "title_jp": "滾り、渇望す",
+        "title_cn": "澎湃着，渴望着",
+        "desc_jp": "メインストーリー第4章をすべて見よう",
+        "desc_cn": "看完主线第4章的全部内容吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c9/9b9qf3ofd6unv06tyn915yck8lxcaty.png/180px-Honor_101405.png",
+        "title_jp": "scenery",
+        "title_cn": "风景",
+        "desc_jp": "メインストーリー第5章をすべて見よう",
+        "desc_cn": "看完主线第5章的全部内容吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/25/a79jm88ni4qnfp4pet6swr8lmvcibjt.png/180px-Honor_310101.png",
+        "title_jp": "キミの夢へと走り出せ！",
+        "title_cn": "向着你的梦想奔跑吧!",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cb/r8qqm0g2ebmj2ynp468x08pt9tb3iwm.png/180px-Honor_310102.png",
+        "title_jp": "Brand-new Friend",
+        "title_cn": "新的朋友",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/69/2trq4q4nlv893k09b9sy1bi3s01ga75.png/180px-Honor_310103.png",
+        "title_jp": "花咲く乙女のJunePride",
+        "title_cn": "花开少女六月的骄傲",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b6/cnkelvkb03n63goi0xmyw64pt5afhyn.png/180px-Honor_310104.png",
+        "title_jp": "幻想世界ウマネスト",
+        "title_cn": "幻想世界马涅斯特",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/49/9zrhfrdzgl8j39v717i2uv744chofj8.png/180px-Honor_310105.png",
+        "title_jp": "ウマ娘夏物語",
+        "title_cn": "赛马娘夏日物语",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0c/awp1q0fcphzbaakqjg96tvwymoeajee.png/180px-Honor_310106.png",
+        "title_jp": "Make up in Halloween！",
+        "title_cn": "万圣节的化妆舞会！",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f8/pontpce07jova3psbiug69os86qqvyx.png/180px-Honor_310107.png",
+        "title_jp": "晩秋、囃子響きたる",
+        "title_cn": "乐鸣晚秋正当时",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9e/0zy5liqmm4eapm8wyht3ns34694l2gn.png/180px-Honor_310108.png",
+        "title_jp": "聖なる夜に重なるキセキ",
+        "title_cn": "奇迹交织的圣诞夜",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cd/pgqbnkdbtdgit0ocrqbtzojqrl8fi7w.png/180px-Honor_310109.png",
+        "title_jp": "瑞花繚乱！新春かるた合戦",
+        "title_cn": "百花缭乱！新春歌牌合战",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/27/lu74wio91ryxdqr8pysirv3a7jyzo1w.png/180px-Honor_310110.png",
+        "title_jp": "栄冠のパティスリー",
+        "title_cn": "冠军们的巧克力工坊",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/03/j8ws4jksbu6k4d37y8eblf9x9rxh709.png/180px-Honor_310111.png",
+        "title_jp": "羽ばたきのRun-up！",
+        "title_cn": "振翅起跑&#160;!",
+        "desc_jp": "イベント期間限定ミッションをすべてクリアしよう",
+        "desc_cn": "完成活动期间的所有限定任务"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8e/lmnzprenvlevp4jft36gilgs6uw3bp8.png/180px-Honor_320001.png",
+        "title_jp": "成績優秀アオハル賞",
+        "title_cn": "青春杯成绩优秀赏",
+        "desc_jp": "トレーナー技能試験で優秀な成績を収めよう",
+        "desc_cn": "在训练员技能试验中取得优秀的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cc/iromq1okv9mcdq98kafp0gws1ha8b7k.png/180px-Honor_501101.png",
+        "title_jp": "仰天ッ！　歓喜ッ！　祝福ッ！",
+        "title_cn": "惊讶！欢喜！祝福！",
+        "desc_jp": "URAファイナルズのシナリオレコード報酬をすべて獲得しよう",
+        "desc_cn": "获得URA总决赛全部的剧本记录报酬吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6c/6c2cvtr9sdqec8u5113fwikys67y1fv.png/180px-Honor_502101.png",
+        "title_jp": "また対決できる日を",
+        "title_cn": "期待能再次对决的那一天",
+        "desc_jp": "アオハル杯のシナリオレコード報酬をすべて獲得しよう",
+        "desc_cn": "获得青春杯全部的剧本记录报酬吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/81/pv47t1wq40t47n3gyctzlb2xil2k9q4.png/180px-Honor_502201.png",
+        "title_jp": "輝け、チームの絆！",
+        "title_cn": "闪耀吧，队伍的羁绊！",
+        "desc_jp": "アオハル杯で優勝しよう",
+        "desc_cn": "在青春杯上取得优胜吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3f/29j8dfvdc1n4jjoui14168sbjbuguh1.png/180px-Honor_502202.png",
+        "title_jp": "チーム＜キャロッツ＞",
+        "title_cn": "团队＜carrots＞",
+        "desc_jp": "アオハル杯でチーム＜キャロッツ＞の総合力をSにしよう",
+        "desc_cn": "在青春杯上让团队＜キャロッツ＞的综合实力达到S吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/11/rkyvgdevoy64dxu4hck3q0ni0qrl021.png/180px-Honor_502203.png",
+        "title_jp": "HOP CHEERS",
+        "title_cn": "干杯",
+        "desc_jp": "アオハル杯でHOP CHEERSの総合力をSにしよう",
+        "desc_cn": "在青春杯上让HOP CHEERS的综合实力达到S吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/66/g0xjjuers4gys2gmab59io6idet3tap.png/180px-Honor_502204.png",
+        "title_jp": "ハレノヒ・ランナーズ",
+        "title_cn": "晴日・奔跑者",
+        "desc_jp": "アオハル杯でハレノヒ・ランナーズの総合力をSにしよう",
+        "desc_cn": "在青春杯上让ハレノヒ・ランナーズ的综合实力达到S吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/73/nsgwap93208jmf7ddc2rzxkfmivcqv5.png/180px-Honor_502205.png",
+        "title_jp": "にんじんぷりん",
+        "title_cn": "胡萝卜布丁",
+        "desc_jp": "アオハル杯でにんじんぷりんの総合力をSにしよう",
+        "desc_cn": "在青春杯上让にんじんぷりん的综合实力达到S吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c2/jp6j2f1y8ii79nd7aspayl996s3otcw.png/180px-Honor_502206.png",
+        "title_jp": "ブルームス",
+        "title_cn": "绽放",
+        "desc_jp": "アオハル杯でブルームスの総合力をSにしよう",
+        "desc_cn": "在青春杯上让ブルームス的综合实力达到S吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/21/pralpolojhbzb6l0jl0owbyl1bnjggp.png/180px-Honor_502207.png",
+        "title_jp": "個人でもチームでも",
+        "title_cn": "无论是个人还是团队",
+        "desc_jp": "アオハル杯のURAファイナルズ決勝であの２人と競い、優勝しよう",
+        "desc_cn": "在青春杯的URA总决赛中与那两人竞争，取得优胜吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/77/crszaphgcpvfkfzo6pa1rsgc1navdft.png/180px-Honor_504101.png",
+        "title_jp": "『最強』",
+        "title_cn": "『最强』",
+        "desc_jp": "クライマックス編のシナリオレコード報酬をすべて獲得しよう",
+        "desc_cn": "获得巅峰杯全部的剧本记录报酬吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6b/tt1zlvg5rsoylrj9y0p7ttpcvuox0im.png/180px-Honor_504102.png",
+        "title_jp": "トゥインクルトップスター",
+        "title_cn": "闪耀巨星",
+        "desc_jp": "トゥインクルスタークライマックスで優勝しよう",
+        "desc_cn": "在『Twinkle Star Climax』上取得优胜吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4f/gq8v9nthefubdi5sp02wwqh7luz0q1g.png/180px-Honor_504103.png",
+        "title_jp": "買い物大好き",
+        "title_cn": "超喜欢购物",
+        "desc_jp": "特別ショップで育成グッズを累計で1000個交換しよう",
+        "desc_cn": "在巅峰杯商店累计兑换1000个培育道具"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9f/ef0qryhga4s22ych5vcxslrb8hyxmad.png/180px-Honor_101501.png",
+        "title_jp": "スペシャルウィークとの出会い",
+        "title_cn": "与特别周的邂逅",
+        "desc_jp": "スペシャルウィークのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看特别周的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/25/07tova53n51a5ewqpm9xgzviu9b27gd.png/180px-Honor_101502.png",
+        "title_jp": "スペシャルウィーク担当",
+        "title_cn": "特别周担当",
+        "desc_jp": "スペシャルウィークのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让特别周的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/14/0999ubyk25chbh9x8fnykfjk6v7q97j.png/180px-Honor_101503.png",
+        "title_jp": "スペシャルウィーク専属",
+        "title_cn": "特别周专属",
+        "desc_jp": "スペシャルウィークのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让特别周的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/47/g9m76t7m3a0efuqq87eppe88oza683m.png/180px-Honor_101504.png",
+        "title_jp": "スペシャルウィーク名手",
+        "title_cn": "特别周名人",
+        "desc_jp": "スペシャルウィークのファン数を累計1億人獲得しよう",
+        "desc_cn": "让特别周的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0a/3l0m5sv6hbw3dhaswpvsnhqhhngkvip.png/180px-Honor_101505.png",
+        "title_jp": "スペシャルウィーク全冠",
+        "title_cn": "特别周全冠",
+        "desc_jp": "スペシャルウィークでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让特别周获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/12/5mj94nmwltiiuhdjpva1rc09a5z185x.png/180px-Honor_101601.png",
+        "title_jp": "サイレンススズカとの出会い",
+        "title_cn": "与无声铃鹿的邂逅",
+        "desc_jp": "サイレンススズカのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看无声铃鹿的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3f/3pbaxccg08cb05jwf61i2conz2irbhv.png/180px-Honor_101602.png",
+        "title_jp": "サイレンススズカ担当",
+        "title_cn": "无声铃鹿担当",
+        "desc_jp": "サイレンススズカのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让无声铃鹿的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/ca/nuvgf75zschtv0tyatua1k18v9ii0hc.png/180px-Honor_101603.png",
+        "title_jp": "サイレンススズカ専属",
+        "title_cn": "无声铃鹿专属",
+        "desc_jp": "サイレンススズカのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让无声铃鹿的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e6/sbipxrkuskoulnuvwt7z0tzrd2emxlz.png/180px-Honor_101604.png",
+        "title_jp": "サイレンススズカ名手",
+        "title_cn": "无声铃鹿名人",
+        "desc_jp": "サイレンススズカのファン数を累計1億人獲得しよう",
+        "desc_cn": "让无声铃鹿的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/78/i7c5qweahr8fq7zoqb7wyll4nqoiurp.png/180px-Honor_101605.png",
+        "title_jp": "サイレンススズカ全冠",
+        "title_cn": "无声铃鹿全冠",
+        "desc_jp": "サイレンススズカでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让无声铃鹿获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ad/bqbqfdhxlyrpzzhkvi642ysmpp0ybjo.png/180px-Honor_101701.png",
+        "title_jp": "トウカイテイオーとの出会い",
+        "title_cn": "与东海帝皇的邂逅",
+        "desc_jp": "トウカイテイオーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看东海帝皇的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d4/27xk7mqkqlx5j19e4j5816dgo08rvuc.png/180px-Honor_101702.png",
+        "title_jp": "トウカイテイオー担当",
+        "title_cn": "东海帝皇担当",
+        "desc_jp": "トウカイテイオーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让东海帝皇的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/bwceg23wh45nr7uk1tyto5rj7mlpb7z.png/180px-Honor_101703.png",
+        "title_jp": "トウカイテイオー専属",
+        "title_cn": "东海帝皇专属",
+        "desc_jp": "トウカイテイオーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让东海帝皇的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/57/n1s7wus6zg9oecd2z7lwyvx5tvcv6to.png/180px-Honor_101704.png",
+        "title_jp": "トウカイテイオー名手",
+        "title_cn": "东海帝皇名人",
+        "desc_jp": "トウカイテイオーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让东海帝皇的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/11/jnmrrb0hdqcg1pwdv20xaw6z312zuox.png/180px-Honor_101705.png",
+        "title_jp": "トウカイテイオー全冠",
+        "title_cn": "东海帝皇全冠",
+        "desc_jp": "トウカイテイオーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让东海帝皇获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b6/t6wb5ly226edjwbloyc84pg9ckjeze3.png/180px-Honor_101801.png",
+        "title_jp": "マルゼンスキーとの出会い",
+        "title_cn": "与丸善斯基的邂逅",
+        "desc_jp": "マルゼンスキーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看丸善斯基的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f5/myfpnxu9psnay7x642qtwxjuo3vcqrk.png/180px-Honor_101802.png",
+        "title_jp": "マルゼンスキー担当",
+        "title_cn": "丸善斯基担当",
+        "desc_jp": "マルゼンスキーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让丸善斯基的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a3/fje7eclz0dhgta82bcc12j9a22c7q51.png/180px-Honor_101803.png",
+        "title_jp": "マルゼンスキー専属",
+        "title_cn": "丸善斯基专属",
+        "desc_jp": "マルゼンスキーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让丸善斯基的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/71/8rvtfull9cajdrn2x3zkz3fuu1w4vgr.png/180px-Honor_101804.png",
+        "title_jp": "マルゼンスキー名手",
+        "title_cn": "丸善斯基名人",
+        "desc_jp": "マルゼンスキーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让丸善斯基的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a1/9tm20veoxdwzebssulk69i6ysjlotl4.png/180px-Honor_101805.png",
+        "title_jp": "マルゼンスキー全冠",
+        "title_cn": "丸善斯基全冠",
+        "desc_jp": "マルゼンスキーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让丸善斯基获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/de/lupmolp4yvmfqba95l34em2kprzzooi.png/180px-Honor_101901.png",
+        "title_jp": "フジキセキとの出会い",
+        "title_cn": "富士奇迹的邂逅",
+        "desc_jp": "フジキセキのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看富士奇迹的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/52/8f6eqn2mjt9dko82gjlvjber7xvl450.png/180px-Honor_101902.png",
+        "title_jp": "フジキセキ担当",
+        "title_cn": "富士奇迹担当",
+        "desc_jp": "フジキセキのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让富士奇迹的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2d/ta2h56lkpyb0rlg35rn22d45ipekcyy.png/180px-Honor_101903.png",
+        "title_jp": "フジキセキ専属",
+        "title_cn": "富士奇迹专属",
+        "desc_jp": "フジキセキのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让富士奇迹的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1a/sdhf0iugk8vs4xmlgjuu6cvdxby50ng.png/180px-Honor_101904.png",
+        "title_jp": "フジキセキ名手",
+        "title_cn": "富士奇迹名人",
+        "desc_jp": "フジキセキのファン数を累計1億人獲得しよう",
+        "desc_cn": "让富士奇迹的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/28/ail5j10tebfh34gcx47f8rwhz9bdmd8.png/180px-Honor_101905.png",
+        "title_jp": "フジキセキ全冠",
+        "title_cn": "富士奇迹全冠",
+        "desc_jp": "フジキセキでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让富士奇迹获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b9/2uxg6i7ydqvns51yomi7ndryv1eankg.png/180px-Honor_102001.png",
+        "title_jp": "オグリキャップとの出会い",
+        "title_cn": "与小栗帽的邂逅",
+        "desc_jp": "オグリキャップのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看小栗帽的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1d/9fiwroz9yu3n7sj5eb4v0zkgt8q0zm0.png/180px-Honor_102002.png",
+        "title_jp": "オグリキャップ担当",
+        "title_cn": "小栗帽担当",
+        "desc_jp": "オグリキャップのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让小栗帽的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/19/6h9bqzkgvs7sx85v61n3cnw3lufn7cb.png/180px-Honor_102003.png",
+        "title_jp": "オグリキャップ専属",
+        "title_cn": "小栗帽专属",
+        "desc_jp": "オグリキャップのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让小栗帽的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6b/eqocjbylsn6gboe3xppverlzlne9cob.png/180px-Honor_102004.png",
+        "title_jp": "オグリキャップ名手",
+        "title_cn": "小栗帽名人",
+        "desc_jp": "オグリキャップのファン数を累計1億人獲得しよう",
+        "desc_cn": "让小栗帽的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/89/f3kkyezpzvvo0yl0lb64o12qt9mt6kx.png/180px-Honor_102005.png",
+        "title_jp": "オグリキャップ全冠",
+        "title_cn": "小栗帽全冠",
+        "desc_jp": "オグリキャップでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让小栗帽获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/03/2udfalxtr9imzokuwwd89b383orv8qi.png/180px-Honor_102101.png",
+        "title_jp": "ゴールドシップとの出会い",
+        "title_cn": "与黄金船的邂逅",
+        "desc_jp": "ゴールドシップのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看黄金船的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3e/tgwb0tqvqkxbsazx1diuq6r23d9ltvk.png/180px-Honor_102102.png",
+        "title_jp": "ゴールドシップ担当",
+        "title_cn": "黄金船担当",
+        "desc_jp": "ゴールドシップのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让黄金船的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/15/81ezskz8b4etkj3x187oxooh2s0ngpn.png/180px-Honor_102103.png",
+        "title_jp": "ゴールドシップ専属",
+        "title_cn": "黄金船专属",
+        "desc_jp": "ゴールドシップのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让黄金船的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/43/m4issizpe81mpoeu27qfc9e5agw9s1z.png/180px-Honor_102104.png",
+        "title_jp": "ゴールドシップ名手",
+        "title_cn": "黄金船名人",
+        "desc_jp": "ゴールドシップのファン数を累計1億人獲得しよう",
+        "desc_cn": "让黄金船的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f6/bkzamhg95j5ownfr2cs9bsne20rtp1n.png/180px-Honor_102105.png",
+        "title_jp": "ゴールドシップ全冠",
+        "title_cn": "黄金船全冠",
+        "desc_jp": "ゴールドシップでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让黄金船获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b5/c4xri770u53d3ciqry8hkbc2w7ieo3d.png/180px-Honor_102201.png",
+        "title_jp": "ウオッカとの出会い",
+        "title_cn": "与伏特加的邂逅",
+        "desc_jp": "ウオッカのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看伏特加的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/65/biooqeuujbtegny706ze70o8tkfgkar.png/180px-Honor_102202.png",
+        "title_jp": "ウオッカ担当",
+        "title_cn": "伏特加担当",
+        "desc_jp": "ウオッカのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让伏特加的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/84/nx77a0ecn7q871pnaawezosbkks48ga.png/180px-Honor_102203.png",
+        "title_jp": "ウオッカ専属",
+        "title_cn": "伏特加专属",
+        "desc_jp": "ウオッカのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让伏特加的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/01/jj1c1dgfmvw69wcvy2rpo2oda3ltxnc.png/180px-Honor_102204.png",
+        "title_jp": "ウオッカ名手",
+        "title_cn": "伏特加名人",
+        "desc_jp": "ウオッカのファン数を累計1億人獲得しよう",
+        "desc_cn": "让伏特加的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e7/ljc4y7cte8067tu2gt7wz19tk7d7qq6.png/180px-Honor_102205.png",
+        "title_jp": "ウオッカ全冠",
+        "title_cn": "伏特加全冠",
+        "desc_jp": "ウオッカでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让伏特加获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7b/31isyxun9cd5zlx2nxotdu8orcwmc8z.png/180px-Honor_102301.png",
+        "title_jp": "ダイワスカーレットとの出会い",
+        "title_cn": "与大和赤骥的邂逅",
+        "desc_jp": "ダイワスカーレットのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看大和赤骥的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7e/c1i6hi645fuci6hoj0j8q2riw5yq3jl.png/180px-Honor_102302.png",
+        "title_jp": "ダイワスカーレット担当",
+        "title_cn": "大和赤骥担当",
+        "desc_jp": "ダイワスカーレットのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让大和赤骥的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fe/qucgam9rs5jy3ehiyqw7ve00dg3pz3m.png/180px-Honor_102303.png",
+        "title_jp": "ダイワスカーレット専属",
+        "title_cn": "大和赤骥专属",
+        "desc_jp": "ダイワスカーレットのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让大和赤骥的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1a/266e6eyqrb4jek1t9t6goumpkw6ow9w.png/180px-Honor_102304.png",
+        "title_jp": "ダイワスカーレット名手",
+        "title_cn": "大和赤骥名人",
+        "desc_jp": "ダイワスカーレットのファン数を累計1億人獲得しよう",
+        "desc_cn": "让大和赤骥的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0b/97q0hjaznbpjnpvoe633ujwyjz8z5py.png/180px-Honor_102305.png",
+        "title_jp": "ダイワスカーレット全冠",
+        "title_cn": "大和赤骥全冠",
+        "desc_jp": "ダイワスカーレットでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让大和赤骥获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/30/lnlelo24t48r9pvu4xy9s9hj2eg25ou.png/180px-Honor_102401.png",
+        "title_jp": "タイキシャトルとの出会い",
+        "title_cn": "与大树快车的邂逅",
+        "desc_jp": "タイキシャトルのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看大树快车的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/18/i1jzo2h67kwrn9lcuqnvvyfvnl42ds0.png/180px-Honor_102402.png",
+        "title_jp": "タイキシャトル担当",
+        "title_cn": "大树快车担当",
+        "desc_jp": "タイキシャトルのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让大树快车的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e6/8dwmf9rdoebu9lcrntsk70qhyb1aj47.png/180px-Honor_102403.png",
+        "title_jp": "タイキシャトル専属",
+        "title_cn": "大树快车专属",
+        "desc_jp": "タイキシャトルのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让大树快车的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2f/ka0iogr6uk278bv1oimmmt2e20xe30e.png/180px-Honor_102404.png",
+        "title_jp": "タイキシャトル名手",
+        "title_cn": "大树快车名人",
+        "desc_jp": "タイキシャトルのファン数を累計1億人獲得しよう",
+        "desc_cn": "让大树快车的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9a/99hdwek0l4td99kqjhjhvqw881uv3wd.png/180px-Honor_102405.png",
+        "title_jp": "タイキシャトル全冠",
+        "title_cn": "大树快车全冠",
+        "desc_jp": "タイキシャトルでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让大树快车获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e4/o6t0dq6ruagsdmze864jv53zig07tek.png/180px-Honor_102501.png",
+        "title_jp": "グラスワンダーとの出会い",
+        "title_cn": "与草上飞的邂逅",
+        "desc_jp": "グラスワンダーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看草上飞的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/s0kuo798re8ytmhvwoe0xuzov439x09.png/180px-Honor_102502.png",
+        "title_jp": "グラスワンダー担当",
+        "title_cn": "草上飞担当",
+        "desc_jp": "グラスワンダーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让草上飞的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/91/2sr4ef9rvda332o5p8dwwcurch95zzu.png/180px-Honor_102503.png",
+        "title_jp": "グラスワンダー専属",
+        "title_cn": "草上飞专属",
+        "desc_jp": "グラスワンダーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让草上飞的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/33/ien5hq95nnmijwc3huvivynugetcd0g.png/180px-Honor_102504.png",
+        "title_jp": "グラスワンダー名手",
+        "title_cn": "草上飞名人",
+        "desc_jp": "グラスワンダーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让草上飞的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/74/1dhsozhl1b7hctixeoez5l51van4xrs.png/180px-Honor_102505.png",
+        "title_jp": "グラスワンダー全冠",
+        "title_cn": "草上飞全冠",
+        "desc_jp": "グラスワンダーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让草上飞获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c8/81s1bzi90ujwu4q4bheob0d5udmksy2.png/180px-Honor_102601.png",
+        "title_jp": "ヒシアマゾンとの出会い",
+        "title_cn": "与亚马逊的邂逅",
+        "desc_jp": "ヒシアマゾンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看亚马逊的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/61/ows8pzm7est916c4i6zp2gjct3g6oq9.png/180px-Honor_102602.png",
+        "title_jp": "ヒシアマゾン担当",
+        "title_cn": "菱亚马逊担当",
+        "desc_jp": "ヒシアマゾンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让菱亚马逊的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/aa/0o29sud99p3kjq9dzpziqcwh7wp8hb4.png/180px-Honor_102603.png",
+        "title_jp": "ヒシアマゾン専属",
+        "title_cn": "菱亚马逊专属",
+        "desc_jp": "ヒシアマゾンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让菱亚马逊的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/35/9m4n7b18acimnp3fsj64536caiklg6u.png/180px-Honor_102604.png",
+        "title_jp": "ヒシアマゾン名手",
+        "title_cn": "菱亚马逊名人",
+        "desc_jp": "ヒシアマゾンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让菱亚马逊的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c4/ixalhjrn2wf6jrccw7ycg6btdgdyn1b.png/180px-Honor_102605.png",
+        "title_jp": "ヒシアマゾン全冠",
+        "title_cn": "菱亚马逊全冠",
+        "desc_jp": "ヒシアマゾンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让菱亚马逊获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4e/egb3qqdc2fly3webf4xslasqprnfl00.png/180px-Honor_102701.png",
+        "title_jp": "メジロマックイーンとの出会い",
+        "title_cn": "与目白麦昆的邂逅",
+        "desc_jp": "メジロマックイーンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看目白麦昆的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f2/gji961fp5qq7x99lxrqeac5x4ggjhyl.png/180px-Honor_102702.png",
+        "title_jp": "メジロマックイーン担当",
+        "title_cn": "目白麦昆担当",
+        "desc_jp": "メジロマックイーンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让目白麦昆的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bb/cqjud58yljdv8twiar434n95k5u0r6n.png/180px-Honor_102703.png",
+        "title_jp": "メジロマックイーン専属",
+        "title_cn": "目白麦昆专属",
+        "desc_jp": "メジロマックイーンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让目白麦昆的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e9/2ybakfxiqaa2b142wpgyufbqan5csr6.png/180px-Honor_102704.png",
+        "title_jp": "メジロマックイーン名手",
+        "title_cn": "目白麦昆名人",
+        "desc_jp": "メジロマックイーンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让目白麦昆的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b6/tvtrql4l1m2lif64bfgm3m1nptpxfux.png/180px-Honor_102705.png",
+        "title_jp": "メジロマックイーン全冠",
+        "title_cn": "目白麦昆全冠",
+        "desc_jp": "メジロマックイーンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让目白麦昆获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7e/8ltgy6upwqiyb7lbhffpi4yzirtf4gx.png/180px-Honor_102801.png",
+        "title_jp": "エルコンドルパサーとの出会い",
+        "title_cn": "与神鹰的邂逅",
+        "desc_jp": "エルコンドルパサーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看神鹰的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0f/bhbndg04faifebuwgh9x52amdp2cmst.png/180px-Honor_102802.png",
+        "title_jp": "エルコンドルパサー担当",
+        "title_cn": "神鹰担当",
+        "desc_jp": "エルコンドルパサーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让神鹰的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/67/jxos5g0vu4r17qzvrfgxqlsi75ra33c.png/180px-Honor_102803.png",
+        "title_jp": "エルコンドルパサー専属",
+        "title_cn": "神鹰专属",
+        "desc_jp": "エルコンドルパサーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让神鹰的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/80/836guq9eoh9leu9pccarh78qu42nlz8.png/180px-Honor_102804.png",
+        "title_jp": "エルコンドルパサー名手",
+        "title_cn": "神鹰名人",
+        "desc_jp": "エルコンドルパサーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让神鹰的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/24/378kehu9m8246iirlqzl0itqxmtkylj.png/180px-Honor_102805.png",
+        "title_jp": "エルコンドルパサー全冠",
+        "title_cn": "神鹰全冠",
+        "desc_jp": "エルコンドルパサーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让神鹰获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7a/ewge31rmzgw9o0p8x90q2is62uppqer.png/180px-Honor_102901.png",
+        "title_jp": "テイエムオペラオーとの出会い",
+        "title_cn": "与好歌剧的邂逅",
+        "desc_jp": "テイエムオペラオーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看好歌剧的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d2/61frgpkqit21jg1fnxn4s9tyjc4x5e6.png/180px-Honor_102902.png",
+        "title_jp": "テイエムオペラオー担当",
+        "title_cn": "好歌剧担当",
+        "desc_jp": "テイエムオペラオーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让好歌剧的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ea/tl309yb4kkvbakcg3qbvtzjr8zfzuoe.png/180px-Honor_102903.png",
+        "title_jp": "テイエムオペラオー専属",
+        "title_cn": "好歌剧专属",
+        "desc_jp": "テイエムオペラオーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让好歌剧的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3b/0qgaw2m59e6fonypw52ahywzgs053or.png/180px-Honor_102904.png",
+        "title_jp": "テイエムオペラオー名手",
+        "title_cn": "好歌剧名人",
+        "desc_jp": "テイエムオペラオーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让好歌剧的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4b/npa7xbi43pwamgywome9efzhab0v4me.png/180px-Honor_102905.png",
+        "title_jp": "テイエムオペラオー全冠",
+        "title_cn": "好歌剧全冠",
+        "desc_jp": "テイエムオペラオーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让好歌剧获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/86/7vik4bccjhedk3wzlzadnuscz9e4v2t.png/180px-Honor_103001.png",
+        "title_jp": "シンボリルドルフとの出会い",
+        "title_cn": "与皇帝的邂逅",
+        "desc_jp": "シンボリルドルフのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看皇帝的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c8/8g3mkjsnpn65rja2n1ceb72bjvudfdq.png/180px-Honor_103002.png",
+        "title_jp": "シンボリルドルフ担当",
+        "title_cn": "皇帝担当",
+        "desc_jp": "シンボリルドルフのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让皇帝的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/62/km2s2kmb8d810xsp5ckpwrz91f9j36g.png/180px-Honor_103003.png",
+        "title_jp": "シンボリルドルフ専属",
+        "title_cn": "皇帝专属",
+        "desc_jp": "シンボリルドルフのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让皇帝的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/70/2bzd1b75g06dojyfzzh5thc0heuu2lt.png/180px-Honor_103004.png",
+        "title_jp": "シンボリルドルフ名手",
+        "title_cn": "皇帝名人",
+        "desc_jp": "シンボリルドルフのファン数を累計1億人獲得しよう",
+        "desc_cn": "让皇帝的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/06/60iqx8l76fpy9ikj93gmuehz7ophaqd.png/180px-Honor_103005.png",
+        "title_jp": "シンボリルドルフ全冠",
+        "title_cn": "皇帝全冠",
+        "desc_jp": "シンボリルドルフでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让皇帝获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/63/hwk9ckeuse286ffs8utzbqy2f76c8s8.png/180px-Honor_103101.png",
+        "title_jp": "エアグルーヴとの出会い",
+        "title_cn": "与气槽的邂逅",
+        "desc_jp": "エアグルーヴのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看气槽的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4e/7lipjeo2gn0a9invbke79pcykuddlqg.png/180px-Honor_103102.png",
+        "title_jp": "エアグルーヴ担当",
+        "title_cn": "气槽担当",
+        "desc_jp": "エアグルーヴのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让气槽的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e6/qmor58hxt29pclhb3a5907wp46qq769.png/180px-Honor_103103.png",
+        "title_jp": "エアグルーヴ専属",
+        "title_cn": "气槽专属",
+        "desc_jp": "エアグルーヴのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让气槽的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/50/aevj5qsjm6uonumjwo1ayqvpxjw4tan.png/180px-Honor_103104.png",
+        "title_jp": "エアグルーヴ名手",
+        "title_cn": "气槽名人",
+        "desc_jp": "エアグルーヴのファン数を累計1億人獲得しよう",
+        "desc_cn": "让气槽的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/63/2j9dahwzieu3jllf074t0kc23qz8ra6.png/180px-Honor_103105.png",
+        "title_jp": "エアグルーヴ全冠",
+        "title_cn": "气槽全冠",
+        "desc_jp": "エアグルーヴでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让气槽获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/21/feljdcp6f7g63qpvqw2zt94wyiczxlm.png/180px-Honor_103201.png",
+        "title_jp": "セイウンスカイとの出会い",
+        "title_cn": "与星云天空的邂逅",
+        "desc_jp": "セイウンスカイのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看星云天空的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/53/pc48z61x26fmgb4zkp45qq29vxkxr2s.png/180px-Honor_103202.png",
+        "title_jp": "セイウンスカイ担当",
+        "title_cn": "星云天空担当",
+        "desc_jp": "セイウンスカイのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让星云天空的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/34/6h95ry0n8aird8oha5y6066v6wuujxs.png/180px-Honor_103203.png",
+        "title_jp": "セイウンスカイ専属",
+        "title_cn": "星云天空专属",
+        "desc_jp": "セイウンスカイのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让星云天空的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/79/an9zm8vr46yzl7j46ciofkxsqt750f0.png/180px-Honor_103204.png",
+        "title_jp": "セイウンスカイ名手",
+        "title_cn": "星云天空名人",
+        "desc_jp": "セイウンスカイのファン数を累計1億人獲得しよう",
+        "desc_cn": "让星云天空的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f2/4h7lt3cak52zpq7j2a9x0torq1dg3v4.png/180px-Honor_103205.png",
+        "title_jp": "セイウンスカイ全冠",
+        "title_cn": "星云天空全冠",
+        "desc_jp": "セイウンスカイでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让星云天空获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/79/5gbf2zgr1d27a9szl9hmux2k6kneews.png/180px-Honor_103301.png",
+        "title_jp": "マヤノトップガンとの出会い",
+        "title_cn": "与重炮的邂逅",
+        "desc_jp": "マヤノトップガンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看重炮的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7f/ebqtifqtgseuxw7v7699bu4dd807ot1.png/180px-Honor_103302.png",
+        "title_jp": "マヤノトップガン担当",
+        "title_cn": "重炮担当",
+        "desc_jp": "マヤノトップガンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让重炮的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fa/q651g04ehljkuycb4nvzjnxtrhfs36x.png/180px-Honor_103303.png",
+        "title_jp": "マヤノトップガン専属",
+        "title_cn": "重炮专属",
+        "desc_jp": "マヤノトップガンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让重炮的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/de/cscv5kdy4ccnm38pym063ii4b1l14vv.png/180px-Honor_103304.png",
+        "title_jp": "マヤノトップガン名手",
+        "title_cn": "重炮名人",
+        "desc_jp": "マヤノトップガンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让重炮的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/80/j995vaxti7b6en05jnw260gxtn84z6o.png/180px-Honor_103305.png",
+        "title_jp": "マヤノトップガン全冠",
+        "title_cn": "重炮全冠",
+        "desc_jp": "マヤノトップガンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让重炮获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/88/scgieyxi4z89ceh1jhqkt9t7y5rdhlc.png/180px-Honor_103401.png",
+        "title_jp": "メジロライアンとの出会い",
+        "title_cn": "与目白赖恩的邂逅",
+        "desc_jp": "メジロライアンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看目白赖恩的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5e/dybteqrsv89zv2madwd8hjda6b0hvbk.png/180px-Honor_103402.png",
+        "title_jp": "メジロライアン担当",
+        "title_cn": "目白赖恩担当",
+        "desc_jp": "メジロライアンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让目白赖恩的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/13/awu0fjfzmmexj1hdy1req3igewhq2cf.png/180px-Honor_103403.png",
+        "title_jp": "メジロライアン専属",
+        "title_cn": "目白赖恩专属",
+        "desc_jp": "メジロライアンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让目白赖恩的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cf/ph1f9tmrjv6qv3u83twzz2y2o7cidz7.png/180px-Honor_103404.png",
+        "title_jp": "メジロライアン名手",
+        "title_cn": "目白赖恩名人",
+        "desc_jp": "メジロライアンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让目白赖恩的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0b/quc3nrco7exvzh3oilvo1xj498z88ti.png/180px-Honor_103405.png",
+        "title_jp": "メジロライアン全冠",
+        "title_cn": "目白赖恩全冠",
+        "desc_jp": "メジロライアンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让目白赖恩获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0e/e8wyhm2aypz5y0bnobktij6jxq8ungs.png/180px-Honor_103501.png",
+        "title_jp": "ライスシャワーとの出会い",
+        "title_cn": "与米浴的邂逅",
+        "desc_jp": "ライスシャワーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看米浴的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/38/ojd1rf15ol22dihjhxem10ulee7qjlw.png/180px-Honor_103502.png",
+        "title_jp": "ライスシャワー担当",
+        "title_cn": "米浴担当",
+        "desc_jp": "ライスシャワーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让米浴的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/15/jweovo14sn913bvfwh8ibe325gflk7y.png/180px-Honor_103503.png",
+        "title_jp": "ライスシャワー専属",
+        "title_cn": "米浴专属",
+        "desc_jp": "ライスシャワーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让米浴的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7a/ntq4qkmm010bet01lo2a6wfmd28gi7a.png/180px-Honor_103504.png",
+        "title_jp": "ライスシャワー名手",
+        "title_cn": "米浴名人",
+        "desc_jp": "ライスシャワーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让米浴的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1a/e0bg6athss9sy81dtm6707lsixbecrg.png/180px-Honor_103505.png",
+        "title_jp": "ライスシャワー全冠",
+        "title_cn": "米浴全冠",
+        "desc_jp": "ライスシャワーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让米浴获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d6/fhiifp5k7mo9vt3zhz4rboxz7wxvbdb.png/180px-Honor_103601.png",
+        "title_jp": "アグネスタキオンとの出会い",
+        "title_cn": "与爱丽速子的邂逅",
+        "desc_jp": "アグネスタキオンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看爱丽速子的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7f/njh6pz4ti5wxj5p61gu6vb8yhwn68bu.png/180px-Honor_103602.png",
+        "title_jp": "アグネスタキオン担当",
+        "title_cn": "爱丽速子担当",
+        "desc_jp": "アグネスタキオンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让爱丽速子的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/33/otvegrilaf3xbtljqktm3p1kbdmvtjm.png/180px-Honor_103603.png",
+        "title_jp": "アグネスタキオン専属",
+        "title_cn": "爱丽速子专属",
+        "desc_jp": "アグネスタキオンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让爱丽速子的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2b/it38lafv3vsspwqitzddegikndek1bx.png/180px-Honor_103604.png",
+        "title_jp": "アグネスタキオン名手",
+        "title_cn": "爱丽速子名人",
+        "desc_jp": "アグネスタキオンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让爱丽速子的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/49/rp2y1iu8vxvwccp61o7mvmgm6cebgu3.png/180px-Honor_103605.png",
+        "title_jp": "アグネスタキオン全冠",
+        "title_cn": "爱丽速子全冠",
+        "desc_jp": "アグネスタキオンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让爱丽速子获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7b/3v7sz736wacffrcfk0afr4lds3kapzh.png/180px-Honor_103701.png",
+        "title_jp": "ウイニングチケットとの出会い",
+        "title_cn": "与胜利奖券的邂逅",
+        "desc_jp": "ウイニングチケットのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看胜利奖券的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/66/oedrajw30ghc582qcmhaihkc8tjlsc6.png/180px-Honor_103702.png",
+        "title_jp": "ウイニングチケット担当",
+        "title_cn": "胜利奖券担当",
+        "desc_jp": "ウイニングチケットのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让胜利奖券的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cc/5nmdyob1ouvd915s3aal8mzwuli7j6n.png/180px-Honor_103703.png",
+        "title_jp": "ウイニングチケット専属",
+        "title_cn": "胜利奖券专属",
+        "desc_jp": "ウイニングチケットのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让胜利奖券的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5c/cozukuiy026sbfzehp89w4gl5am213w.png/180px-Honor_103704.png",
+        "title_jp": "ウイニングチケット名手",
+        "title_cn": "胜利奖券名人",
+        "desc_jp": "ウイニングチケットのファン数を累計1億人獲得しよう",
+        "desc_cn": "让胜利奖券的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c7/ms5eeh8a6y6q78zh4rsiijs5hdiftzn.png/180px-Honor_103705.png",
+        "title_jp": "ウイニングチケット全冠",
+        "title_cn": "胜利奖券全冠",
+        "desc_jp": "ウイニングチケットでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让胜利奖券获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/41/33iivnjzwj93fk0p4p1mysf3zrwz2z8.png/180px-Honor_103801.png",
+        "title_jp": "ゴールドシチーとの出会い",
+        "title_cn": "与黄金城的邂逅",
+        "desc_jp": "ゴールドシチーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看黄金城的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/04/h7gb4iby9fdzpr53newptg6n4r4vp7r.png/180px-Honor_103802.png",
+        "title_jp": "ゴールドシチー担当",
+        "title_cn": "黄金城担当",
+        "desc_jp": "ゴールドシチーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让黄金城的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6d/q8z12k8k83ga748urxaybum961qz3fq.png/180px-Honor_103803.png",
+        "title_jp": "ゴールドシチー専属",
+        "title_cn": "黄金城专属",
+        "desc_jp": "ゴールドシチーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让黄金城的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/22/5s54x0l3ouwpad6yudjyg5q4gnvkkw2.png/180px-Honor_103804.png",
+        "title_jp": "ゴールドシチー名手",
+        "title_cn": "黄金城名人",
+        "desc_jp": "ゴールドシチーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让黄金城的粉丝数累计达到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ac/52prc7ye440vjgqiyv0l5cvrya6mi7j.png/180px-Honor_103805.png",
+        "title_jp": "ゴールドシチー全冠",
+        "title_cn": "黄金城全冠",
+        "desc_jp": "ゴールドシチーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让黄金城获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/34/itmdv2x16mrwl8lbxrr4b8ziy02ax4a.png/180px-Honor_103901.png",
+        "title_jp": "サクラバクシンオーとの出会い",
+        "title_cn": "与樱花进王的邂逅",
+        "desc_jp": "サクラバクシンオーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看樱花进王的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4f/5hqaug5se4pwkdo64sbys1gnbxs5rdi.png/180px-Honor_103902.png",
+        "title_jp": "サクラバクシンオー担当",
+        "title_cn": "樱花进王担当",
+        "desc_jp": "サクラバクシンオーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让樱花进王的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/94/s7iiryjfmudx6kjshoob4ol4m1wjajy.png/180px-Honor_103903.png",
+        "title_jp": "サクラバクシンオー専属",
+        "title_cn": "樱花进王专属",
+        "desc_jp": "サクラバクシンオーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让樱花进王的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3c/1480a9ba0kuqq8ljjbwzgag49m5fr29.png/180px-Honor_103904.png",
+        "title_jp": "サクラバクシンオー名手",
+        "title_cn": "樱花进王名人",
+        "desc_jp": "サクラバクシンオーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让樱花进王的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c9/7w7acd86fr2f3j4dlcyyzg2z4ft3ldr.png/180px-Honor_103905.png",
+        "title_jp": "サクラバクシンオー全冠",
+        "title_cn": "樱花进王全冠",
+        "desc_jp": "サクラバクシンオーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让樱花进王获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/21/s3vxnhapp23lrddap1n8xt81icozxns.png/180px-Honor_104001.png",
+        "title_jp": "スーパークリークとの出会い",
+        "title_cn": "与超级小海湾的邂逅",
+        "desc_jp": "スーパークリークのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看超级小海湾的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/ba/afm5xdvhft81lg5mm6afxyzcgpe0rec.png/180px-Honor_104002.png",
+        "title_jp": "スーパークリーク担当",
+        "title_cn": "超级小海湾担当",
+        "desc_jp": "スーパークリークのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让超级小海湾的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5f/gxv1dv5utho51xm836hqgelxs9rd126.png/180px-Honor_104003.png",
+        "title_jp": "スーパークリーク専属",
+        "title_cn": "超级小海湾专属",
+        "desc_jp": "スーパークリークのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让超级小海湾的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/db/gmuinzrdm3ui35n6h222jms3p22otdh.png/180px-Honor_104004.png",
+        "title_jp": "スーパークリーク名手",
+        "title_cn": "超级小海湾名人",
+        "desc_jp": "スーパークリークのファン数を累計1億人獲得しよう",
+        "desc_cn": "让超级小海湾的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/48/fiznxkffwpcoqjvd1enx8l6yqsw3l49.png/180px-Honor_104005.png",
+        "title_jp": "スーパークリーク全冠",
+        "title_cn": "超级小海湾全冠",
+        "desc_jp": "スーパークリークでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让超级小海湾获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/34/hr5ry7y5geimbff0m5a9a340ilnlckd.png/180px-Honor_104101.png",
+        "title_jp": "ハルウララとの出会い",
+        "title_cn": "与春乌拉拉的邂逅",
+        "desc_jp": "ハルウララのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看春乌拉拉的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f1/o40zqxxz45j6bjuj1igjksizia9b2i6.png/180px-Honor_104102.png",
+        "title_jp": "ハルウララ担当",
+        "title_cn": "春乌拉拉担当",
+        "desc_jp": "ハルウララのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让春乌拉拉的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f6/q081mggt9bdgubc18yrhfd096hykgth.png/180px-Honor_104103.png",
+        "title_jp": "ハルウララ専属",
+        "title_cn": "春乌拉拉专属",
+        "desc_jp": "ハルウララのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让春乌拉拉的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/dc/2r3pfykgi1kdgttdawf849emkeisafj.png/180px-Honor_104104.png",
+        "title_jp": "ハルウララ名手",
+        "title_cn": "春乌拉拉名人",
+        "desc_jp": "ハルウララのファン数を累計1億人獲得しよう",
+        "desc_cn": "让春乌拉拉的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bd/o93tiivcwrnbugn61y03nllvgvv6qei.png/180px-Honor_104105.png",
+        "title_jp": "ハルウララ全冠",
+        "title_cn": "春乌拉拉全冠",
+        "desc_jp": "ハルウララでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让春乌拉拉获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/bc/ku5n0yz5ejp0g14jzpy57frtrrznpve.png/180px-Honor_104201.png",
+        "title_jp": "マチカネフクキタルとの出会い",
+        "title_cn": "与待兼福来的邂逅",
+        "desc_jp": "マチカネフクキタルのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看待兼福来的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8a/dxg1d4bgaktce2xugqjwk3dijan24v3.png/180px-Honor_104202.png",
+        "title_jp": "マチカネフクキタル担当",
+        "title_cn": "待兼福来担当",
+        "desc_jp": "マチカネフクキタルのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让待兼福来的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/06/5bpamo3bdnbs7ydi3rny5uj1mtan6s7.png/180px-Honor_104203.png",
+        "title_jp": "マチカネフクキタル専属",
+        "title_cn": "待兼福来专属",
+        "desc_jp": "マチカネフクキタルのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让待兼福来的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ad/pbkka1nd38qlc5s0asw3utu2illy7yx.png/180px-Honor_104204.png",
+        "title_jp": "マチカネフクキタル名手",
+        "title_cn": "待兼福来名人",
+        "desc_jp": "マチカネフクキタルのファン数を累計1億人獲得しよう",
+        "desc_cn": "让待兼福来的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/25/s3x01od6jlxyox7sbbopklijhber1j2.png/180px-Honor_104205.png",
+        "title_jp": "マチカネフクキタル全冠",
+        "title_cn": "待兼福来全冠",
+        "desc_jp": "マチカネフクキタルでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让待兼福来获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3d/ep7ocq73ek76ix9bup631u9yir0e0pc.png/180px-Honor_104301.png",
+        "title_jp": "ナイスネイチャとの出会い",
+        "title_cn": "与优秀素质的邂逅",
+        "desc_jp": "ナイスネイチャのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看优秀素质的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/3qysl81ku7uxnjy7ueamvnp42a1l1om.png/180px-Honor_104302.png",
+        "title_jp": "ナイスネイチャ担当",
+        "title_cn": "优秀素质担当",
+        "desc_jp": "ナイスネイチャのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让优秀素质的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/16/pmkvz0qctx68e80cac1bd15cjrixnri.png/180px-Honor_104303.png",
+        "title_jp": "ナイスネイチャ専属",
+        "title_cn": "优秀素质专属",
+        "desc_jp": "ナイスネイチャのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让优秀素质的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/04/379n9i6riktpcdmg5gwhkk83i386am3.png/180px-Honor_104304.png",
+        "title_jp": "ナイスネイチャ名手",
+        "title_cn": "优秀素质名人",
+        "desc_jp": "ナイスネイチャのファン数を累計1億人獲得しよう",
+        "desc_cn": "让优秀素质的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/00/0qglyjjdza4z3qpqi65noj116ofvpba.png/180px-Honor_104305.png",
+        "title_jp": "ナイスネイチャ全冠",
+        "title_cn": "优秀素质全冠",
+        "desc_jp": "ナイスネイチャでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让优秀素质获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fd/6gaeu5n5b04qia1jqlkz9zt8pha3sau.png/180px-Honor_104401.png",
+        "title_jp": "キングヘイローとの出会い",
+        "title_cn": "与帝王光辉的邂逅",
+        "desc_jp": "キングヘイローのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看帝王光辉的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b7/m0d4vwyqfeu07227dgsmqh8fcrvjd78.png/180px-Honor_104402.png",
+        "title_jp": "キングヘイロー担当",
+        "title_cn": "帝王光辉担当",
+        "desc_jp": "キングヘイローのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让帝王光辉的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2e/qspnvrpx3nt78udysan4qxeci9c5i7m.png/180px-Honor_104403.png",
+        "title_jp": "キングヘイロー専属",
+        "title_cn": "帝王光辉专属",
+        "desc_jp": "キングヘイローのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让帝王光辉的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/38/b2g20gy44idg9uow30kk0sx2j9njaya.png/180px-Honor_104404.png",
+        "title_jp": "キングヘイロー名手",
+        "title_cn": "帝王光辉名人",
+        "desc_jp": "キングヘイローのファン数を累計1億人獲得しよう",
+        "desc_cn": "让帝王光辉的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4a/4dcqqw7e3duxlcu1oqximebil7qgz5k.png/180px-Honor_104405.png",
+        "title_jp": "キングヘイロー全冠",
+        "title_cn": "帝王光辉全冠",
+        "desc_jp": "キングヘイローでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让帝王光辉获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c8/e5q6jquaglshy39jorqin4258idisy5.png/180px-Honor_104501.png",
+        "title_jp": "ミホノブルボンとの出会い",
+        "title_cn": "与美浦波旁的邂逅",
+        "desc_jp": "ミホノブルボンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看美浦波旁的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/34/9b6zk36u8e19yn963r6jbsbfceray79.png/180px-Honor_104502.png",
+        "title_jp": "ミホノブルボン担当",
+        "title_cn": "美浦波旁担当",
+        "desc_jp": "ミホノブルボンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让美浦波旁的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/14/9mujidv58uewh92w8jmn985c96zzmf0.png/180px-Honor_104503.png",
+        "title_jp": "ミホノブルボン専属",
+        "title_cn": "美浦波旁专属",
+        "desc_jp": "ミホノブルボンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让美浦波旁的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e4/44an6ihcjlijk0axkahy6pdlxl6wqpz.png/180px-Honor_104504.png",
+        "title_jp": "ミホノブルボン名手",
+        "title_cn": "美浦波旁名人",
+        "desc_jp": "ミホノブルボンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让美浦波旁的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cd/cdc6x12vgzuu6mtmnsg0jib7xasowsy.png/180px-Honor_104505.png",
+        "title_jp": "ミホノブルボン全冠",
+        "title_cn": "美浦波旁全冠",
+        "desc_jp": "ミホノブルボンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让美浦波旁获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/08/5jx8mcpwl620zak8n9adzdntcqs6530.png/180px-Honor_104601.png",
+        "title_jp": "ビワハヤヒデとの出会い",
+        "title_cn": "与琵琶晨光的邂逅",
+        "desc_jp": "ビワハヤヒデのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看琵琶晨光的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/ce/le19mfujxbd055ur584qsuly9e80jl0.png/180px-Honor_104602.png",
+        "title_jp": "ビワハヤヒデ担当",
+        "title_cn": "琵琶晨光担当",
+        "desc_jp": "ビワハヤヒデのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让琵琶晨光的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/80/4tjh86rcklsz89v2r22f0rkwz4domd4.png/180px-Honor_104603.png",
+        "title_jp": "ビワハヤヒデ専属",
+        "title_cn": "琵琶晨光专属",
+        "desc_jp": "ビワハヤヒデのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让琵琶晨光的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e1/q1lk5gdycxa1m0nm3cxr6ahip77f2dr.png/180px-Honor_104604.png",
+        "title_jp": "ビワハヤヒデ名手",
+        "title_cn": "琵琶晨光名人",
+        "desc_jp": "ビワハヤヒデのファン数を累計1億人獲得しよう",
+        "desc_cn": "让琵琶晨光的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a5/i7yhcka5myt86jgh8f9g9twz133pfhb.png/180px-Honor_104605.png",
+        "title_jp": "ビワハヤヒデ全冠",
+        "title_cn": "琵琶晨光全冠",
+        "desc_jp": "ビワハヤヒデでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让琵琶晨光获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/20/l3r3jqohzj2onxroyntwqsz69j6yr3n.png/180px-Honor_104701.png",
+        "title_jp": "カレンチャンとの出会い",
+        "title_cn": "与真机伶的邂逅",
+        "desc_jp": "カレンチャンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看真机伶的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d9/ekel3fhxhlq9z0w0io3z3vhjppzpm6n.png/180px-Honor_104702.png",
+        "title_jp": "カレンチャン担当",
+        "title_cn": "真机伶担当",
+        "desc_jp": "カレンチャンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让真机伶的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ae/swtf92efe5yknmeo25ki8r6wwdcqzf9.png/180px-Honor_104703.png",
+        "title_jp": "カレンチャン専属",
+        "title_cn": "真机伶专属",
+        "desc_jp": "カレンチャンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让真机伶的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/db/gy58h2vympukj8d3tuoyiupcqaebq52.png/180px-Honor_104704.png",
+        "title_jp": "カレンチャン名手",
+        "title_cn": "真机伶名人",
+        "desc_jp": "カレンチャンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让真机伶的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/18/4osoko9geemmhwmj4s5quelyba4vey7.png/180px-Honor_104705.png",
+        "title_jp": "カレンチャン全冠",
+        "title_cn": "真机伶全冠",
+        "desc_jp": "カレンチャンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让真机伶获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/dd/a03obztffxfj85q862l370sjku6vzko.png/180px-Honor_104801.png",
+        "title_jp": "ナリタタイシンとの出会い",
+        "title_cn": "与成田大进的邂逅",
+        "desc_jp": "ナリタタイシンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看成田大进的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/02/iw16lzdz7snvz1kxrjzt5dtvqgnd320.png/180px-Honor_104802.png",
+        "title_jp": "ナリタタイシン担当",
+        "title_cn": "成田大进担当",
+        "desc_jp": "ナリタタイシンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让成田大进的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2e/red3rczjd18xwm6abc9rv0pw6wipqqj.png/180px-Honor_104803.png",
+        "title_jp": "ナリタタイシン専属",
+        "title_cn": "成田大进专属",
+        "desc_jp": "ナリタタイシンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让成田大进的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8b/lx390pjoia1z62oaqpervmwe0c06uqt.png/180px-Honor_104804.png",
+        "title_jp": "ナリタタイシン名手",
+        "title_cn": "成田大进名人",
+        "desc_jp": "ナリタタイシンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让成田大进的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/49/8xasrtdy5t0yuplhywi4yaq3llos9g5.png/180px-Honor_104805.png",
+        "title_jp": "ナリタタイシン全冠",
+        "title_cn": "成田大进全冠",
+        "desc_jp": "ナリタタイシンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让成田大进获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/22/820o22gy9i3rpz6ad7yzroas159brao.png/180px-Honor_104901.png",
+        "title_jp": "スマートファルコンとの出会い",
+        "title_cn": "与醒目飞鹰的邂逅",
+        "desc_jp": "スマートファルコンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看醒目飞鹰的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b7/31k9b58t3al71ilghzgvle9xavllxe0.png/180px-Honor_104902.png",
+        "title_jp": "スマートファルコン担当",
+        "title_cn": "醒目飞鹰担当",
+        "desc_jp": "スマートファルコンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让醒目飞鹰的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/92/d83xt8o3q10dsuy0yhtiw4c0nmnuwdj.png/180px-Honor_104903.png",
+        "title_jp": "スマートファルコン専属",
+        "title_cn": "醒目飞鹰专属",
+        "desc_jp": "スマートファルコンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让醒目飞鹰的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/18/idgb1tbfwne5ivs69rnwoenpbpfynm6.png/180px-Honor_104904.png",
+        "title_jp": "スマートファルコン名手",
+        "title_cn": "醒目飞鹰名人",
+        "desc_jp": "スマートファルコンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让醒目飞鹰的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9f/lbhsu5xvzi45fjhkc6hsplh48x1qtm6.png/180px-Honor_104905.png",
+        "title_jp": "スマートファルコン全冠",
+        "title_cn": "醒目飞鹰全冠",
+        "desc_jp": "スマートファルコンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让醒目飞鹰获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4c/48gztb4clwanm26byooz3zph6lko8pz.png/180px-Honor_105001.png",
+        "title_jp": "ナリタブライアンとの出会い",
+        "title_cn": "与成田白仁的邂逅",
+        "desc_jp": "ナリタブライアンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看成田白仁的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6d/gi0fuuv18nwxraszu96ji0m7fpset0t.png/180px-Honor_105002.png",
+        "title_jp": "ナリタブライアン担当",
+        "title_cn": "成田白仁担当",
+        "desc_jp": "ナリタブライアンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让成田白仁的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/a4/0o0hpi83pxzdtt2egc66bk9l8xgebgq.png/180px-Honor_105003.png",
+        "title_jp": "ナリタブライアン専属",
+        "title_cn": "成田白仁专属",
+        "desc_jp": "ナリタブライアンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让成田白仁的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/95/lxmw6it9yylawrrfhqv69d67up223o2.png/180px-Honor_105004.png",
+        "title_jp": "ナリタブライアン名手",
+        "title_cn": "成田白仁名人",
+        "desc_jp": "ナリタブライアンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让成田白仁的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ed/dptmyaiga0dq6jjtkyhz7a138haxdm4.png/180px-Honor_105005.png",
+        "title_jp": "ナリタブライアン全冠",
+        "title_cn": "成田白仁全冠",
+        "desc_jp": "ナリタブライアンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让成田白仁获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7b/io4tn67mm81vq732g43sf14i2s8yvwx.png/180px-Honor_105101.png",
+        "title_jp": "メイショウドトウとの出会い",
+        "title_cn": "与名将怒涛的邂逅",
+        "desc_jp": "メイショウドトウのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看名将怒涛的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/71/s7tsah52d4twidw2gkt4azknugvq5c7.png/180px-Honor_105102.png",
+        "title_jp": "メイショウドトウ担当",
+        "title_cn": "名将怒涛担当",
+        "desc_jp": "メイショウドトウのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让名将怒涛的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cf/0evecgzb8evekgdwqcfm34me1n8o9b3.png/180px-Honor_105103.png",
+        "title_jp": "メイショウドトウ専属",
+        "title_cn": "名将怒涛专属",
+        "desc_jp": "メイショウドトウのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让名将怒涛的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1b/c4b6lh21uwzf8tct14r4p0szd1l8qvx.png/180px-Honor_105104.png",
+        "title_jp": "メイショウドトウ名手",
+        "title_cn": "名将怒涛名人",
+        "desc_jp": "メイショウドトウのファン数を累計1億人獲得しよう",
+        "desc_cn": "让名将怒涛的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/66/l7dskhdxxsqeszwkak7lvu04y3izhjz.png/180px-Honor_105105.png",
+        "title_jp": "メイショウドトウ全冠",
+        "title_cn": "名将怒涛全冠",
+        "desc_jp": "メイショウドトウでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让名将怒涛获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/70/p42mjw96hmewdb0iu4n8bvs1530ej06.png/180px-Honor_105201.png",
+        "title_jp": "エイシンフラッシュとの出会い",
+        "title_cn": "与荣进闪耀的邂逅",
+        "desc_jp": "エイシンフラッシュのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看荣进闪耀的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/9d/8fwxqlu4vw5o7emxgzcg96f1if3rs4b.png/180px-Honor_105202.png",
+        "title_jp": "エイシンフラッシュ担当",
+        "title_cn": "荣进闪耀担当",
+        "desc_jp": "エイシンフラッシュのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让荣进闪耀的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ef/f4w17ndspx39ot0n2suev9d3nnfx4ya.png/180px-Honor_105203.png",
+        "title_jp": "エイシンフラッシュ専属",
+        "title_cn": "荣进闪耀专属",
+        "desc_jp": "エイシンフラッシュのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让荣进闪耀的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ec/lxz7vfh9q2knf0u94fbzus61xeleatm.png/180px-Honor_105204.png",
+        "title_jp": "エイシンフラッシュ名手",
+        "title_cn": "荣进闪耀名人",
+        "desc_jp": "エイシンフラッシュのファン数を累計1億人獲得しよう",
+        "desc_cn": "让荣进闪耀的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/36/28087jywx2gk8mq4er4yhwne9bytr8x.png/180px-Honor_105205.png",
+        "title_jp": "エイシンフラッシュ全冠",
+        "title_cn": "荣进闪耀全冠",
+        "desc_jp": "エイシンフラッシュでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让荣进闪耀获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/91/n756ro12fq3wzc8gh8g6i5p6u54tqov.png/180px-Honor_105301.png",
+        "title_jp": "ヒシアケボノとの出会い",
+        "title_cn": "与菱曙的邂逅",
+        "desc_jp": "ヒシアケボノのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看菱曙的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d0/j0ybfdwdgd3r42ssjicgkncvwcwipt4.png/180px-Honor_105302.png",
+        "title_jp": "ヒシアケボノ担当",
+        "title_cn": "菱曙担当",
+        "desc_jp": "ヒシアケボノのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让菱曙的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/08/b5chhmoy7zz3w5rqgofj12gi9xwy9ry.png/180px-Honor_105303.png",
+        "title_jp": "ヒシアケボノ専属",
+        "title_cn": "菱曙专属",
+        "desc_jp": "ヒシアケボノのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让菱曙的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/23/hjisqz8f9pkvgdc5yje2iqrct817nrv.png/180px-Honor_105304.png",
+        "title_jp": "ヒシアケボノ名手",
+        "title_cn": "菱曙名人",
+        "desc_jp": "ヒシアケボノのファン数を累計1億人獲得しよう",
+        "desc_cn": "让菱曙的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0e/9rhg8lruit9tkups4sehkkmdzsk3qrc.png/180px-Honor_105305.png",
+        "title_jp": "ヒシアケボノ全冠",
+        "title_cn": "菱曙全冠",
+        "desc_jp": "ヒシアケボノでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让菱曙获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/be/l0mvwxs1br6pp8epyh6c4k9667boaty.png/180px-Honor_105401.png",
+        "title_jp": "アグネスデジタルとの出会い",
+        "title_cn": "与爱丽数码的邂逅",
+        "desc_jp": "アグネスデジタルのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看爱丽数码的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0c/3to2h04fea5rfn469o0zi5m6s5r4spc.png/180px-Honor_105402.png",
+        "title_jp": "アグネスデジタル担当",
+        "title_cn": "爱丽数码担当",
+        "desc_jp": "アグネスデジタルのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让爱丽数码的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8a/3rnk81yetnb36vdmaqhfr5uinvk38x2.png/180px-Honor_105403.png",
+        "title_jp": "アグネスデジタル専属",
+        "title_cn": "爱丽数码专属",
+        "desc_jp": "アグネスデジタルのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让爱丽数码的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/92/o8jc44cll3rlg1umiu1grw8fg79mz1z.png/180px-Honor_105404.png",
+        "title_jp": "アグネスデジタル名手",
+        "title_cn": "爱丽数码名人",
+        "desc_jp": "アグネスデジタルのファン数を累計1億人獲得しよう",
+        "desc_cn": "让爱丽数码的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6c/2vs49e43hqqe8bxls3f7o7v52oslu4g.png/180px-Honor_105405.png",
+        "title_jp": "アグネスデジタル全冠",
+        "title_cn": "爱丽数码全冠",
+        "desc_jp": "アグネスデジタルでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让爱丽数码获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/14/l6y73qwkhpy577ogumoxl0w59yue2id.png/180px-Honor_105501.png",
+        "title_jp": "カワカミプリンセスとの出会い",
+        "title_cn": "与川上公主的邂逅",
+        "desc_jp": "カワカミプリンセスのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看川上公主的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/ae/a8nwdzr5z7vfso2rlllfx60gpxmp13u.png/180px-Honor_105502.png",
+        "title_jp": "カワカミプリンセス担当",
+        "title_cn": "川上公主担当",
+        "desc_jp": "カワカミプリンセスのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让川上公主的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/31/inlw0ubvq3n12xylvfw6t8bbbup4usc.png/180px-Honor_105503.png",
+        "title_jp": "カワカミプリンセス専属",
+        "title_cn": "川上公主专属",
+        "desc_jp": "カワカミプリンセスのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让川上公主的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f8/11jdrknc8fdhlvhrwnmd15qxescf2cb.png/180px-Honor_105504.png",
+        "title_jp": "カワカミプリンセス名手",
+        "title_cn": "川上公主名人",
+        "desc_jp": "カワカミプリンセスのファン数を累計1億人獲得しよう",
+        "desc_cn": "让川上公主的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ea/g9t9p07n7ixblje8xxtumz6kpsqgygc.png/180px-Honor_105505.png",
+        "title_jp": "カワカミプリンセス全冠",
+        "title_cn": "川上公主全冠",
+        "desc_jp": "カワカミプリンセスでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让川上公主获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4a/674xvtz5dl7o50a3plobasyvprguykr.png/180px-Honor_105601.png",
+        "title_jp": "マンハッタンカフェとの出会い",
+        "title_cn": "与曼城茶座的邂逅",
+        "desc_jp": "マンハッタンカフェのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看曼城茶座的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/47/dn2r4lnal3qxir1ib5y64aia54is03v.png/180px-Honor_105602.png",
+        "title_jp": "マンハッタンカフェ担当",
+        "title_cn": "曼城茶座担当",
+        "desc_jp": "マンハッタンカフェのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让曼城茶座的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d3/nin4ftg2f5hxtfzksnjxouird9wbxts.png/180px-Honor_105603.png",
+        "title_jp": "マンハッタンカフェ専属",
+        "title_cn": "曼城茶座专属",
+        "desc_jp": "マンハッタンカフェのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让曼城茶座的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/28/su4pp5kklru1wpp1avtr6fwm83s7cp9.png/180px-Honor_105604.png",
+        "title_jp": "マンハッタンカフェ名手",
+        "title_cn": "曼城茶座名人",
+        "desc_jp": "マンハッタンカフェのファン数を累計1億人獲得しよう",
+        "desc_cn": "让曼城茶座的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/56/7dl7peiu175m3ohuotp3le0yitkzfda.png/180px-Honor_105605.png",
+        "title_jp": "マンハッタンカフェ全冠",
+        "title_cn": "曼城茶座全冠",
+        "desc_jp": "マンハッタンカフェでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让曼城茶座获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/36/4hubj32h2eyb9ml38e1u9ykurdd6qxa.png/180px-Honor_105701.png",
+        "title_jp": "トーセンジョーダンとの出会い",
+        "title_cn": "与东瀛佐敦的邂逅",
+        "desc_jp": "トーセンジョーダンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看东瀛佐敦的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/53/o56z37pyb922ewhjm96hs99w7bidwbv.png/180px-Honor_105702.png",
+        "title_jp": "トーセンジョーダン担当",
+        "title_cn": "东瀛佐敦担当",
+        "desc_jp": "トーセンジョーダンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让东瀛佐敦的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5a/icmw2zrddderimhlm3qyv13pa1bzdjk.png/180px-Honor_105703.png",
+        "title_jp": "トーセンジョーダン専属",
+        "title_cn": "东瀛佐敦专属",
+        "desc_jp": "トーセンジョーダンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让东瀛佐敦的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fd/opepwlw107wnol5oy2o55m8etquj37x.png/180px-Honor_105704.png",
+        "title_jp": "トーセンジョーダン名手",
+        "title_cn": "东瀛佐敦名人",
+        "desc_jp": "トーセンジョーダンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让东瀛佐敦的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f5/pv8zrwvslnb3ojoj7ddky6mllahkdpj.png/180px-Honor_105705.png",
+        "title_jp": "トーセンジョーダン全冠",
+        "title_cn": "东瀛佐敦全冠",
+        "desc_jp": "トーセンジョーダンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让东瀛佐敦获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/3b/3wls7gq9iedihcgtt4dhbbf8n47uffx.png/180px-Honor_105801.png",
+        "title_jp": "メジロドーベルとの出会い",
+        "title_cn": "与目白多伯的邂逅",
+        "desc_jp": "メジロドーベルのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看目白多伯的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/16/0q7pwy33r0bz730oaqz5f8pgjayp4n5.png/180px-Honor_105802.png",
+        "title_jp": "メジロドーベル担当",
+        "title_cn": "目白多伯担当",
+        "desc_jp": "メジロドーベルのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让目白多伯的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0e/7rkggpib886j1eayqkmlryzwkaf8f8a.png/180px-Honor_105803.png",
+        "title_jp": "メジロドーベル専属",
+        "title_cn": "目白多伯专属",
+        "desc_jp": "メジロドーベルのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让目白多伯的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1d/ay1ovdpws2c8dosiizjih5itoejfayn.png/180px-Honor_105804.png",
+        "title_jp": "メジロドーベル名手",
+        "title_cn": "目白多伯名人",
+        "desc_jp": "メジロドーベルのファン数を累計1億人獲得しよう",
+        "desc_cn": "让目白多伯的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/36/isba77bhxnc1r3mapr80obycc2sk497.png/180px-Honor_105805.png",
+        "title_jp": "メジロドーベル全冠",
+        "title_cn": "目白多伯全冠",
+        "desc_jp": "メジロドーベルでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让目白多伯获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fb/6ozz6qnjun5x9fuiuhg0wmz2bt1twdz.png/180px-Honor_105901.png",
+        "title_jp": "ファインモーションとの出会い",
+        "title_cn": "与美妙姿势的邂逅",
+        "desc_jp": "ファインモーションのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看美妙姿势的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b6/ih3t3wjm8dvbjzmzghjc0qipfhvvlgo.png/180px-Honor_105902.png",
+        "title_jp": "ファインモーション担当",
+        "title_cn": "美妙姿势担当",
+        "desc_jp": "ファインモーションのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让美妙姿势的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/58/9msxoux1auld97wn6zavzb7wivn2t0q.png/180px-Honor_105903.png",
+        "title_jp": "ファインモーション専属",
+        "title_cn": "美妙姿势专属",
+        "desc_jp": "ファインモーションのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让美妙姿势的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1e/s5pnp1xigar7stjl7kdowp37nc7qwgo.png/180px-Honor_105904.png",
+        "title_jp": "ファインモーション名手",
+        "title_cn": "美妙姿势名人",
+        "desc_jp": "ファインモーションのファン数を累計1億人獲得しよう",
+        "desc_cn": "让美妙姿势的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/cd/aytey308cgif7h4hp36qqyejqp71a5z.png/180px-Honor_105905.png",
+        "title_jp": "ファインモーション全冠",
+        "title_cn": "美妙姿势全冠",
+        "desc_jp": "ファインモーションでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让美妙姿势获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/00/565f3calvvtuh1d7kw8fw36inurgg57.png/180px-Honor_106001.png",
+        "title_jp": "タマモクロスとの出会い",
+        "title_cn": "与玉藻十字的邂逅",
+        "desc_jp": "タマモクロスのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看玉藻十字的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5e/rri7w6vz92cxsk2ib0h4vfjj94oucgy.png/180px-Honor_106002.png",
+        "title_jp": "タマモクロス担当",
+        "title_cn": "玉藻十字担当",
+        "desc_jp": "タマモクロスのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让玉藻十字的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/5c/0e4cjxr6fcti12eopqjsx8oqc269lf9.png/180px-Honor_106003.png",
+        "title_jp": "タマモクロス専属",
+        "title_cn": "玉藻十字专属",
+        "desc_jp": "タマモクロスのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让玉藻十字的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b4/6xheg9wousclesi3dvjf5w13zltp6am.png/180px-Honor_106004.png",
+        "title_jp": "タマモクロス名手",
+        "title_cn": "玉藻十字名人",
+        "desc_jp": "タマモクロスのファン数を累計1億人獲得しよう",
+        "desc_cn": "让玉藻十字的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/12/ezwx24wn85m3cqif8i6i9rj48jw4h0v.png/180px-Honor_106005.png",
+        "title_jp": "タマモクロス全冠",
+        "title_cn": "玉藻十字全冠",
+        "desc_jp": "タマモクロスでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让玉藻十字获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/29/apf6d992pht6k1r69pbkdcpdtsp5crv.png/180px-Honor_106101.png",
+        "title_jp": "サクラチヨノオーとの出会い",
+        "title_cn": "与樱花千代王的邂逅",
+        "desc_jp": "サクラチヨノオーのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看樱花千代王的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1d/qxfinf2bb2cpspyf52ead21vm57rgqg.png/180px-Honor_106102.png",
+        "title_jp": "サクラチヨノオー担当",
+        "title_cn": "樱花千代王担当",
+        "desc_jp": "サクラチヨノオーのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让樱花千代王的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c2/110zbl8h94xo9gc6gy17o7xvsxranpv.png/180px-Honor_106103.png",
+        "title_jp": "サクラチヨノオー専属",
+        "title_cn": "樱花千代王专属",
+        "desc_jp": "サクラチヨノオーのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让樱花千代王的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1f/0d635jwdjtymuf0fvlp4j7efo3kv70w.png/180px-Honor_106104.png",
+        "title_jp": "サクラチヨノオー名手",
+        "title_cn": "樱花千代王名人",
+        "desc_jp": "サクラチヨノオーのファン数を累計1億人獲得しよう",
+        "desc_cn": "让樱花千代王的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/38/t2wqzeazlz46e68tvmf0p1g22qrraju.png/180px-Honor_106105.png",
+        "title_jp": "サクラチヨノオー全冠",
+        "title_cn": "樱花千代王全冠",
+        "desc_jp": "サクラチヨノオーでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让樱花千代王获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/de/28djki2urkrzr82o320pu7s69cgbrpz.png/180px-Honor_106201.png",
+        "title_jp": "メジロアルダンとの出会い",
+        "title_cn": "与目白阿尔丹的邂逅",
+        "desc_jp": "メジロアルダンのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看目白阿尔丹的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d1/inolmjzlo8cbkkm5eeedmpmy5yg1oct.png/180px-Honor_106202.png",
+        "title_jp": "メジロアルダン担当",
+        "title_cn": "目白阿尔丹担当",
+        "desc_jp": "メジロアルダンのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让目白阿尔丹的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/54/it5h46sksvkw1ybizsn1c0lsg37x47b.png/180px-Honor_106203.png",
+        "title_jp": "メジロアルダン専属",
+        "title_cn": "目白阿尔丹专属",
+        "desc_jp": "メジロアルダンのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让目白阿尔丹的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1e/cae3lm2w21ttawll4ujgkh86nm3b736.png/180px-Honor_106204.png",
+        "title_jp": "メジロアルダン名手",
+        "title_cn": "目白阿尔丹名人",
+        "desc_jp": "メジロアルダンのファン数を累計1億人獲得しよう",
+        "desc_cn": "让目白阿尔丹的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2a/7vfhpeqhxx2klmu8d5idct48grusykf.png/180px-Honor_106205.png",
+        "title_jp": "メジロアルダン全冠",
+        "title_cn": "目白阿尔丹全冠",
+        "desc_jp": "メジロアルダンでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让目白阿尔丹获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c9/px0pbdqumtmxx26qynyic4lwe6qn1sl.png/180px-Honor_106301.png",
+        "title_jp": "アドマイヤベガとの出会い",
+        "title_cn": "与爱慕织姬的邂逅",
+        "desc_jp": "アドマイヤベガのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看爱慕织姬的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/96/awl71evqk9h8t3gi09co8cyayy08pby.png/180px-Honor_106302.png",
+        "title_jp": "アドマイヤベガ担当",
+        "title_cn": "爱慕织姬担当",
+        "desc_jp": "アドマイヤベガのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让爱慕织姬的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/53/d37sjxzs36v4nt0y5t4obldwhhectos.png/180px-Honor_106303.png",
+        "title_jp": "アドマイヤベガ専属",
+        "title_cn": "爱慕织姬专属",
+        "desc_jp": "アドマイヤベガのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让爱慕织姬的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fc/cq6z75d4wm7zuz0whyiswqsa671u7qy.png/180px-Honor_106304.png",
+        "title_jp": "アドマイヤベガ名手",
+        "title_cn": "爱慕织姬名人",
+        "desc_jp": "アドマイヤベガのファン数を累計1億人獲得しよう",
+        "desc_cn": "让爱慕织姬的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/35/ax2aqzko0puitmi9i4rbbmjlnat6n8v.png/180px-Honor_106305.png",
+        "title_jp": "アドマイヤベガ全冠",
+        "title_cn": "爱慕织姬全冠",
+        "desc_jp": "アドマイヤベガでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让爱慕织姬获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4c/nrnqxkoulias1xe2hqaj1uk7bnjynbb.png/180px-Honor_106401.png",
+        "title_jp": "キタサンブラックとの出会い",
+        "title_cn": "与北部玄驹的邂逅",
+        "desc_jp": "キタサンブラックのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看北部玄驹的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2c/5r3xd59hkz67ekewe5mjh6h677qal16.png/180px-Honor_106402.png",
+        "title_jp": "キタサンブラック担当",
+        "title_cn": "北部玄驹担当",
+        "desc_jp": "キタサンブラックのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让北部玄驹的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c5/siaxvvj41s14o41i6vb8jq9l9eisvst.png/180px-Honor_106403.png",
+        "title_jp": "キタサンブラック専属",
+        "title_cn": "北部玄驹专属",
+        "desc_jp": "キタサンブラックのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让北部玄驹的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/13/1re2gmaeatjt5na096u4etnlqgadkty.png/180px-Honor_106404.png",
+        "title_jp": "キタサンブラック名手",
+        "title_cn": "北部玄驹名人",
+        "desc_jp": "キタサンブラックのファン数を累計1億人獲得しよう",
+        "desc_cn": "让北部玄驹的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2e/boat2edbuoiun8j6t2bx1ye9fymd3lb.png/180px-Honor_106405.png",
+        "title_jp": "キタサンブラック全冠",
+        "title_cn": "北部玄驹全冠",
+        "desc_jp": "キタサンブラックでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让北部玄驹获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1b/jm520wu7fbmdy8wbyzxn6myaorysadd.png/180px-Honor_106501.png",
+        "title_jp": "マチカネタンホイザとの出会い",
+        "title_cn": "与待兼诗歌剧的邂逅",
+        "desc_jp": "マチカネタンホイザのウマ娘ストーリー第4話を見よう",
+        "desc_cn": "看看待兼诗歌剧的马娘故事第4话吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/50/lxs0rcpuf5bxtng0cwm43cd2u3pmbq8.png/180px-Honor_106502.png",
+        "title_jp": "マチカネタンホイザ担当",
+        "title_cn": "待兼诗歌剧担当",
+        "desc_jp": "マチカネタンホイザのファン数を累計1000万人獲得しよう",
+        "desc_cn": "让待兼诗歌剧的粉丝数累计达到1000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8f/mn6cle2bpwcf7i2ed0l5jwxlz89smuw.png/180px-Honor_106503.png",
+        "title_jp": "マチカネタンホイザ専属",
+        "title_cn": "待兼诗歌剧专属",
+        "desc_jp": "マチカネタンホイザのファン数を累計5000万人獲得しよう",
+        "desc_cn": "让待兼诗歌剧的粉丝数累计达到5000万人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2b/a780b6gr6z90ti93cen9xyq6sif7z4q.png/180px-Honor_106504.png",
+        "title_jp": "マチカネタンホイザ名手",
+        "title_cn": "待兼诗歌剧名人",
+        "desc_jp": "マチカネタンホイザのファン数を累計1億人獲得しよう",
+        "desc_cn": "让待兼诗歌剧的粉丝数累计到1亿人吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/83/auiq3pf6dj9jcttaqzi82a47tgrcisd.png/180px-Honor_106505.png",
+        "title_jp": "マチカネタンホイザ全冠",
+        "title_cn": "待兼诗歌剧全冠",
+        "desc_jp": "マチカネタンホイザでGⅠ～GⅢの全てのトロフィーを獲得しよう",
+        "desc_cn": "让待兼诗歌剧获得GⅠ～GⅢ的全部奖杯吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6d/h7zpsb32a71rfxpq7seb2aa4w3sdjy2.png/180px-Honor_401101.png",
+        "title_jp": "カプリコーン杯プラチナ",
+        "title_cn": "摩羯杯白金",
+        "desc_jp": "カプリコーン杯で伝説的な成績を残そう",
+        "desc_cn": "在摩羯杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6a/deng4qa1rh738grcxky9c3pdl0k2b5f.png/180px-Honor_401201.png",
+        "title_jp": "カプリコーン杯ゴールド",
+        "title_cn": "摩羯杯黄金",
+        "desc_jp": "カプリコーン杯で偉大な成績を残そう",
+        "desc_cn": "在摩羯杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/ea/117950haii47c2329zlhw5lhmbi5yfw.png/180px-Honor_401301.png",
+        "title_jp": "カプリコーン杯シルバー",
+        "title_cn": "摩羯杯白银",
+        "desc_jp": "カプリコーン杯で輝かしい成績を残そう",
+        "desc_cn": "在摩羯杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/fb/ojcyzxssegaxeof3j7mymmds3p3gf8k.png/180px-Honor_401401.png",
+        "title_jp": "カプリコーン杯ブロンズ",
+        "title_cn": "摩羯杯青铜",
+        "desc_jp": "カプリコーン杯で優れた成績を残そう",
+        "desc_cn": "在摩羯杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/e/e1/83oth6t8k4f2ujqlgxyzanuhsygt7jn.png/180px-Honor_402101.png",
+        "title_jp": "アクエリアス杯プラチナ",
+        "title_cn": "水瓶杯白金",
+        "desc_jp": "アクエリアス杯で伝説的な成績を残そう",
+        "desc_cn": "在水瓶杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/6a/gjdv65ldyee1ys3isvj968kjalr6h8h.png/180px-Honor_402201.png",
+        "title_jp": "アクエリアス杯ゴールド",
+        "title_cn": "水瓶杯黄金",
+        "desc_jp": "アクエリアス杯で偉大な成績を残そう",
+        "desc_cn": "在水瓶杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/37/hgn7317xh0fb8r1l1bbv0y8gkf3vek8.png/180px-Honor_402301.png",
+        "title_jp": "アクエリアス杯シルバー",
+        "title_cn": "水瓶杯白银",
+        "desc_jp": "アクエリアス杯で輝かしい成績を残そう",
+        "desc_cn": "在水瓶杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/52/mjsunh29q7u9jsmsuj213iz1opdppqn.png/180px-Honor_402401.png",
+        "title_jp": "アクエリアス杯ブロンズ",
+        "title_cn": "水瓶杯青铜",
+        "desc_jp": "アクエリアス杯で優れた成績を残そう",
+        "desc_cn": "在水瓶杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/35/dhpc0dnl3ghp1ywbbt3u5bmmz0wz1k4.png/180px-Honor_405101.png",
+        "title_jp": "タウラス杯プラチナ",
+        "title_cn": "金牛杯白金",
+        "desc_jp": "タウラス杯で伝説的な成績を残そう",
+        "desc_cn": "在金牛杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4b/hpqkxi7t8r8q6m2m9u20t6saz546pp8.png/180px-Honor_405201.png",
+        "title_jp": "タウラス杯ゴールド",
+        "title_cn": "金牛杯黄金",
+        "desc_jp": "タウラス杯で偉大な成績を残そう",
+        "desc_cn": "在金牛杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/14/h5ybzqxdx1z2ztu72cj1hg6pjr36f8y.png/180px-Honor_405301.png",
+        "title_jp": "タウラス杯シルバー",
+        "title_cn": "金牛杯白银",
+        "desc_jp": "タウラス杯で輝かしい成績を残そう",
+        "desc_cn": "在金牛杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/24/6o470ys3xow0ccug21qfaoj90vokjrf.png/180px-Honor_405401.png",
+        "title_jp": "タウラス杯ブロンズ",
+        "title_cn": "金牛杯青铜",
+        "desc_jp": "タウラス杯で優れた成績を残そう",
+        "desc_cn": "在金牛杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/12/jeded30nin035g3zx19kqcz921rk01b.png/180px-Honor_406101.png",
+        "title_jp": "ジェミニ杯プラチナ",
+        "title_cn": "双子杯白金",
+        "desc_jp": "ジェミニ杯で伝説的な成績を残そう",
+        "desc_cn": "在双子杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/f/f5/4myfdatbkjudiv4arzx2m2tqp7ph7fk.png/180px-Honor_406201.png",
+        "title_jp": "ジェミニ杯ゴールド",
+        "title_cn": "双子杯黄金",
+        "desc_jp": "ジェミニ杯で偉大な成績を残そう",
+        "desc_cn": "在双子杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d2/gtw4igrdtfy0fq1x7ufd3geb14qp1pa.png/180px-Honor_406301.png",
+        "title_jp": "ジェミニ杯シルバー",
+        "title_cn": "双子杯白银",
+        "desc_jp": "ジェミニ杯で輝かしい成績を残そう",
+        "desc_cn": "在双子杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/ce/525twt5ahcd230s2nxejt96okkkei2g.png/180px-Honor_406401.png",
+        "title_jp": "ジェミニ杯ブロンズ",
+        "title_cn": "双子杯青铜",
+        "desc_jp": "ジェミニ杯で優れた成績を残そう",
+        "desc_cn": "在双子杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/27/45szbuxrexv2obyxc2gkhzzxonfsl9e.png/180px-Honor_407101.png",
+        "title_jp": "キャンサー杯プラチナ",
+        "title_cn": "巨蟹杯白金",
+        "desc_jp": "キャンサー杯で伝説的な成績を残そう",
+        "desc_cn": "在巨蟹杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/42/g2vv3u5lu1wgk3k7za08mjhyn50t22w.png/180px-Honor_407201.png",
+        "title_jp": "キャンサー杯ゴールド",
+        "title_cn": "巨蟹杯黄金",
+        "desc_jp": "キャンサー杯で偉大な成績を残そう",
+        "desc_cn": "在巨蟹杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/50/t3fwwkegqxirpqu42svweqk1mileusu.png/180px-Honor_407301.png",
+        "title_jp": "キャンサー杯シルバー",
+        "title_cn": "巨蟹杯白银",
+        "desc_jp": "キャンサー杯で輝かしい成績を残そう",
+        "desc_cn": "在巨蟹杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/4e/ngb5do1bxpcgbygcel8ojgl6w2tyr4k.png/180px-Honor_407401.png",
+        "title_jp": "キャンサー杯ブロンズ",
+        "title_cn": "巨蟹杯青铜",
+        "desc_jp": "キャンサー杯で優れた成績を残そう",
+        "desc_cn": "在巨蟹杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/74/4oinjb6kq3fxj4ubvg1t86iu755uyzh.png/180px-Honor_408101.png",
+        "title_jp": "レオ杯プラチナ",
+        "title_cn": "狮子杯白金",
+        "desc_jp": "レオ杯で伝説的な成績を残そう",
+        "desc_cn": "在狮子杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/af/rj74ctlxhakuix31zg5sedwa0cvw4lw.png/180px-Honor_408201.png",
+        "title_jp": "レオ杯ゴールド",
+        "title_cn": "狮子杯黄金",
+        "desc_jp": "レオ杯で偉大な成績を残そう",
+        "desc_cn": "在狮子杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/7/7a/icvqxwhusism0egokumohn9fuue6f34.png/180px-Honor_408301.png",
+        "title_jp": "レオ杯シルバー",
+        "title_cn": "狮子杯白银",
+        "desc_jp": "レオ杯で輝かしい成績を残そう",
+        "desc_cn": "在狮子杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/54/5g4884xu7it5vhggc5cayo7q41eqmrj.png/180px-Honor_408401.png",
+        "title_jp": "レオ杯ブロンズ",
+        "title_cn": "狮子杯青铜",
+        "desc_jp": "レオ杯で優れた成績を残そう",
+        "desc_cn": "在狮子杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/0/0c/23bi9uhvhwu82dy4aq17x5avgb035z9.png/180px-Honor_409101.png",
+        "title_jp": "ヴァルゴ杯プラチナ",
+        "title_cn": "处女杯白金",
+        "desc_jp": "ヴァルゴ杯で伝説的な成績を残そう",
+        "desc_cn": "在处女杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/6/62/9joxw5v02to2f5tm56uvwlaiax52jn1.png/180px-Honor_409201.png",
+        "title_jp": "ヴァルゴ杯ゴールド",
+        "title_cn": "处女杯黄金",
+        "desc_jp": "ヴァルゴ杯で偉大な成績を残そう",
+        "desc_cn": "在处女杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b2/141ggnlkinam95ya2nk9yskgnexuiib.png/180px-Honor_409301.png",
+        "title_jp": "ヴァルゴ杯シルバー",
+        "title_cn": "处女杯白银",
+        "desc_jp": "ヴァルゴ杯で輝かしい成績を残そう",
+        "desc_cn": "在处女杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/b/b6/lqt6p75z9y21q49ao002hkifdpanzbp.png/180px-Honor_409401.png",
+        "title_jp": "ヴァルゴ杯ブロンズ",
+        "title_cn": "处女杯青铜",
+        "desc_jp": "ヴァルゴ杯で優れた成績を残そう",
+        "desc_cn": "在处女杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/1/1e/cibbyc6xmu6bixlkop711ee26djuvwj.png/180px-Honor_410101.png",
+        "title_jp": "ライブラ杯プラチナ",
+        "title_cn": "天秤杯白金",
+        "desc_jp": "ライブラ杯で伝説的な成績を残そう",
+        "desc_cn": "在天秤杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/5/51/7a63kip9tlv6s93tqrmdfg1ll5o7cfh.png/180px-Honor_410201.png",
+        "title_jp": "ライブラ杯ゴールド",
+        "title_cn": "天秤杯黄金",
+        "desc_jp": "ライブラ杯で偉大な成績を残そう",
+        "desc_cn": "在天秤杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/dd/qtf7hivmk94hh3utua2petzb3mjey5y.png/180px-Honor_410301.png",
+        "title_jp": "ライブラ杯シルバー",
+        "title_cn": "天秤杯白银",
+        "desc_jp": "ライブラ杯で輝かしい成績を残そう",
+        "desc_cn": "在天秤杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/4/46/btzgswuobaanlee7dt5vyv58sg1432q.png/180px-Honor_410401.png",
+        "title_jp": "ライブラ杯ブロンズ",
+        "title_cn": "天秤杯青铜",
+        "desc_jp": "ライブラ杯で優れた成績を残そう",
+        "desc_cn": "在天秤杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/2/2c/4ctthwon35qtvwdyg30asv7x39s8cct.png/180px-Honor_411101.png",
+        "title_jp": "スコーピオ杯プラチナ",
+        "title_cn": "天蝎杯白金",
+        "desc_jp": "スコーピオ杯で伝説的な成績を残そう",
+        "desc_cn": "在天蝎杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/d7/or9whqe2z6ff7bnxfljcu2qa0t4qob9.png/180px-Honor_411201.png",
+        "title_jp": "スコーピオ杯ゴールド",
+        "title_cn": "天蝎杯黄金",
+        "desc_jp": "スコーピオ杯で偉大な成績を残そう",
+        "desc_cn": "在天蝎杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/a/aa/c9ii502lrgt2c09o5u0ln9ap5r463da.png/180px-Honor_411301.png",
+        "title_jp": "スコーピオ杯シルバー",
+        "title_cn": "天蝎杯白银",
+        "desc_jp": "スコーピオ杯で輝かしい成績を残そう",
+        "desc_cn": "在天蝎杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/c/c3/k6x935p8nwn865fw8zjmkapd9dskgal.png/180px-Honor_411401.png",
+        "title_jp": "スコーピオ杯ブロンズ",
+        "title_cn": "天蝎杯青铜",
+        "desc_jp": "スコーピオ杯で優れた成績を残そう",
+        "desc_cn": "在天蝎杯上取得优异成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/8/8e/s9ra5cfgnas4fq8wwcwfznkcry1t6r0.png/180px-Honor_412101.png",
+        "title_jp": "サジタリウス杯プラチナ",
+        "title_cn": "射手杯白金",
+        "desc_jp": "サジタリウス杯で伝説的な成績を残そう",
+        "desc_cn": "在射手杯上创造传说的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/9/98/nkbkc3dxrf8uegmqofyxu0n5b1q0u1s.png/180px-Honor_412201.png",
+        "title_jp": "サジタリウス杯ゴールド",
+        "title_cn": "射手杯黄金",
+        "desc_jp": "サジタリウス杯で偉大な成績を残そう",
+        "desc_cn": "在射手杯上留下伟大的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/3/31/tbrshzdc795rs17oecso9tmfmcjg4bj.png/180px-Honor_412301.png",
+        "title_jp": "サジタリウス杯シルバー",
+        "title_cn": "射手杯白银",
+        "desc_jp": "サジタリウス杯で輝かしい成績を残そう",
+        "desc_cn": "在射手杯上留下辉煌的成绩吧"
+    },
+    {
+        "icon": "https://patchwiki.biligame.com/images/umamusume/thumb/d/dd/g82rkuemzh4t59gd5j5hcegl6hvjfb4.png/180px-Honor_412401.png",
+        "title_jp": "サジタリウス杯ブロンズ",
+        "title_cn": "射手杯青铜",
+        "desc_jp": "サジタリウス杯で優れた成績を残そう",
+        "desc_cn": "在射手杯上取得优异成绩吧"
+    }
+]
