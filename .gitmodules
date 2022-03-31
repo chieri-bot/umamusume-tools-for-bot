@@ -4,3 +4,6 @@
 [submodule "umamusume_skill_parser"]
 	path = umamusume_skill_parser
 	url = https://github.com/chinosk114514/umamusume-skill-code-converter.git
+[submodule "umamusume_bot/data"]
+	path = umamusume_bot/data
+	url = https://github.com/chieri-bot/umamusume-alias.git
