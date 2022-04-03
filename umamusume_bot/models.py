@@ -243,3 +243,27 @@ class UmaDetailInfo:
 
     def __str__(self):
         return self.get_text()
+
+
+class UmaRace(BaseModel):
+    level: str
+    name_jp: str
+    name_cn: str
+    place: str
+    place_type: str
+    distence: int
+    direction: str
+    distence_str: t.Optional[str]
+    race_index: t.Optional[int]
+
+    def __init__(self, **data):
+        super().__init__(**data)
+
+        if self.distence < 1600:
+            self.distence_str = "短"
+        elif 1600 <= self.distence < 2000:
+            self.distence_str = "英"
+        elif 2000 <= self.distence <= 2400:
+            self.distence_str = "中"
+        else:
+            self.distence_str = "长"

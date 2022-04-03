@@ -27,6 +27,10 @@ exit()
 # umamusume_bot.image_generate.Generator.generate_event_table(name="チーム総合力アップ・最高の差し入れ").save("evt.png")
 # exit()
 
+rc = umamusume_bot.race_calc.RaceCalc("芝长")
+print(rc.race_get())
+exit()
+
 gacha = umamusume_bot.image_generate.Gacha()
 print(gacha.generate_image_card_well())
 exit()
