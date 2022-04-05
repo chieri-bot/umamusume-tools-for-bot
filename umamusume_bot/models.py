@@ -261,9 +261,9 @@ class UmaRace(BaseModel):
 
         if self.distence < 1600:
             self.distence_str = "短"
-        elif 1600 <= self.distence < 2000:
+        elif 1600 <= self.distence <= 1800:
             self.distence_str = "英"
-        elif 2000 <= self.distence <= 2400:
+        elif 1800 < self.distence <= 2400:
             self.distence_str = "中"
         else:
             self.distence_str = "长"
