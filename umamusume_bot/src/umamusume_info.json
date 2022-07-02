@@ -1,227 +1,334 @@
 {
     "スペシャルウィーク": {
-        "measurements": "B81・W56・H81"
+        "measurements": "B81・W56・H81",
+        "cn_name": "特别周"
     },
     "サイレンススズカ": {
-        "measurements": "B70・W53・H79"
+        "measurements": "B70・W53・H79",
+        "cn_name": "无声铃鹿"
     },
     "トウカイテイオー": {
-        "measurements": "B77・W54・H76"
+        "measurements": "B77・W54・H76",
+        "cn_name": "东海帝皇"
     },
     "マルゼンスキー": {
-        "measurements": "B92・W58・H88"
+        "measurements": "B92・W58・H88",
+        "cn_name": "丸善斯基"
     },
     "フジキセキ": {
-        "measurements": "B84・W58・H82"
+        "measurements": "B84・W58・H82",
+        "cn_name": "富士奇迹"
     },
     "オグリキャップ": {
-        "measurements": "B82・W57・H82"
+        "measurements": "B82・W57・H82",
+        "cn_name": "小栗帽"
     },
     "ゴールドシップ": {
-        "measurements": "B88・W55・H88"
+        "measurements": "B88・W55・H88",
+        "cn_name": "黄金船"
     },
     "ウオッカ": {
-        "measurements": "B76・W55・H78"
+        "measurements": "B76・W55・H78",
+        "cn_name": "伏特加"
     },
     "ダイワスカーレット": {
-        "measurements": "B90・W56・H82"
+        "measurements": "B90・W56・H82",
+        "cn_name": "大和赤骥"
     },
     "タイキシャトル": {
-        "measurements": "B94・W59・H90"
+        "measurements": "B94・W59・H90",
+        "cn_name": "大树快车"
     },
     "グラスワンダー": {
-        "measurements": "B77・W53・H84"
+        "measurements": "B77・W53・H84",
+        "cn_name": "草上飞"
     },
     "ヒシアマゾン": {
-        "measurements": "B92・W59・H89"
+        "measurements": "B92・W59・H89",
+        "cn_name": "菱亚马逊"
     },
     "メジロマックイーン": {
-        "measurements": "B71・W54・H76"
+        "measurements": "B71・W54・H76",
+        "cn_name": "目白麦昆"
     },
     "エルコンドルパサー": {
-        "measurements": "B89・W58・H86"
+        "measurements": "B89・W58・H86",
+        "cn_name": "神鹰"
     },
     "テイエムオペラオー": {
-        "measurements": "B76・W55・H80"
+        "measurements": "B76・W55・H80",
+        "cn_name": "好歌剧"
     },
     "ナリタブライアン": {
-        "measurements": "B91・W58・H85"
+        "measurements": "B91・W58・H85",
+        "cn_name": "成田白仁"
     },
     "シンボリルドルフ": {
-        "measurements": "B86・W59・H85"
+        "measurements": "B86・W59・H85",
+        "cn_name": "皇帝"
     },
     "エアグルーヴ": {
-        "measurements": "B90・W57・H86"
+        "measurements": "B90・W57・H86",
+        "cn_name": "气槽"
     },
     "アグネスデジタル": {
-        "measurements": "B74・W51・H75"
+        "measurements": "B74・W51・H75",
+        "cn_name": "爱丽数码"
     },
     "タマモクロス": {
-        "measurements": "B71・W52・H73"
+        "measurements": "B71・W52・H73",
+        "cn_name": "玉藻十字"
     },
     "セイウンスカイ": {
-        "measurements": "B77・W55・H80"
+        "measurements": "B77・W55・H80",
+        "cn_name": "星云天空"
     },
     "ファインモーション": {
-        "measurements": "B79・W56・H83"
+        "measurements": "B79・W56・H83",
+        "cn_name": "美妙姿势"
     },
     "ビワハヤヒデ": {
-        "measurements": "B93・W61・H88"
+        "measurements": "B93・W61・H88",
+        "cn_name": "琵琶晨光"
     },
     "マヤノトップガン": {
-        "measurements": "B75・W51・H73"
+        "measurements": "B75・W51・H73",
+        "cn_name": "重炮"
     },
     "マンハッタンカフェ": {
-        "measurements": "B73・W54・H78"
+        "measurements": "B73・W54・H78",
+        "cn_name": "曼城茶座"
     },
     "ミホノブルボン": {
-        "measurements": "B86・W54・H87"
+        "measurements": "B86・W54・H87",
+        "cn_name": "美浦波旁"
     },
     "メジロライアン": {
-        "measurements": "B87・W57・H86"
+        "measurements": "B87・W57・H86",
+        "cn_name": "目白赖恩"
     },
     "ヒシアケボノ": {
-        "measurements": "B99・W64・H88"
+        "measurements": "B99・W64・H88",
+        "cn_name": "菱曙"
     },
     "ユキノビジン": {
-        "measurements": "B80・W55・H80"
+        "measurements": "B80・W55・H80",
+        "cn_name": "雪中美人"
     },
     "ライスシャワー": {
-        "measurements": "B75・W51・H76"
+        "measurements": "B75・W51・H76",
+        "cn_name": "米浴"
     },
     "アイネスフウジン": {
-        "measurements": "B88・W58・H84"
+        "measurements": "B88・W58・H84",
+        "cn_name": "艾尼斯风神"
     },
     "アグネスタキオン": {
-        "measurements": "B83・W55・H81"
+        "measurements": "B83・W55・H81",
+        "cn_name": "爱丽速子"
     },
     "アドマイヤベガ": {
-        "measurements": "B85・W57・H82"
+        "measurements": "B85・W57・H82",
+        "cn_name": "爱慕织姬"
     },
     "イナリワン": {
-        "measurements": "B85・W51・H74"
+        "measurements": "B85・W51・H74",
+        "cn_name": "稻荷一"
     },
     "ウイニングチケット": {
-        "measurements": "B88・W57・H85"
+        "measurements": "B88・W57・H85",
+        "cn_name": "胜利奖券"
     },
     "エアシャカール": {
-        "measurements": "B77・W56・H85"
+        "measurements": "B77・W56・H85",
+        "cn_name": "空中神宫"
     },
     "カレンチャン": {
-        "measurements": "B83・W55・H79"
+        "measurements": "B83・W55・H79",
+        "cn_name": "真机伶"
     },
     "エイシンフラッシュ": {
-        "measurements": "B88・W58・H86"
+        "measurements": "B88・W58・H86",
+        "cn_name": "荣进闪耀"
     },
     "カワカミプリンセス": {
-        "measurements": "B91・W57・H87"
+        "measurements": "B91・W57・H87",
+        "cn_name": "川上公主"
     },
     "ゴールドシチー": {
-        "measurements": "B85・W58・H82"
+        "measurements": "B85・W58・H82",
+        "cn_name": "黄金城"
     },
     "シーキングザパール": {
-        "measurements": "B91・W57・H87"
+        "measurements": "B91・W57・H87",
+        "cn_name": "采珠"
     },
     "サクラバクシンオー": {
-        "measurements": "B83・W55・H83"
+        "measurements": "B83・W55・H83",
+        "cn_name": "樱花进王"
     },
     "シンコウウインディ": {
-        "measurements": "B77・W57・H88"
+        "measurements": "B77・W57・H88",
+        "cn_name": "新光风"
     },
     "スイープトウショウ": {
-        "measurements": "B72・W53・H73"
+        "measurements": "B72・W53・H73",
+        "cn_name": "东商变革"
     },
     "スーパークリーク": {
-        "measurements": "B97・W61・H91"
+        "measurements": "B97・W61・H91",
+        "cn_name": "超级小海湾"
     },
     "スマートファルコン": {
-        "measurements": "B78・W55・H80"
+        "measurements": "B78・W55・H80",
+        "cn_name": "醒目飞鹰"
     },
     "ゼンノロブロイ": {
-        "measurements": "B89・W56・H78"
+        "measurements": "B89・W56・H78",
+        "cn_name": "荒漠英雄"
     },
     "トーセンジョーダン": {
-        "measurements": "B82・W56・H84"
+        "measurements": "B82・W56・H84",
+        "cn_name": "东瀛佐敦"
     },
     "ナカヤマフェスタ": {
-        "measurements": "B78・W54・H79"
+        "measurements": "B78・W54・H79",
+        "cn_name": "ナカヤマフェスタ"
     },
     "ナリタタイシン": {
-        "measurements": "B69・W50・H73"
+        "measurements": "B69・W50・H73",
+        "cn_name": "成田大进"
     },
     "ニシノフラワー": {
-        "measurements": "B67・W48・H70"
+        "measurements": "B67・W48・H70",
+        "cn_name": "西野花"
     },
     "ハルウララ": {
-        "measurements": "B74・W51・H73"
+        "measurements": "B74・W51・H73",
+        "cn_name": "春乌拉拉"
     },
     "バンブーメモリー": {
-        "measurements": "B77・W57・H81"
+        "measurements": "B77・W57・H81",
+        "cn_name": "青竹回忆"
     },
     "マーベラスサンデー": {
-        "measurements": "B87・W52・H77"
+        "measurements": "B87・W52・H77",
+        "cn_name": "美丽周日"
     },
     "ビコーペガサス": {
-        "measurements": "B72・W54・H75"
+        "measurements": "B72・W54・H75",
+        "cn_name": "微光飞驹"
     },
     "マチカネフクキタル": {
-        "measurements": "B84・W59・H83"
+        "measurements": "B84・W59・H83",
+        "cn_name": "待兼福来"
     },
     "ミスターシービー": {
-        "measurements": "B84・W55・H80"
+        "measurements": "B84・W55・H80",
+        "cn_name": "千明代表"
     },
     "メイショウドトウ": {
-        "measurements": "B99・W61・H89"
+        "measurements": "B99・W61・H89",
+        "cn_name": "名将户仁"
     },
     "メジロドーベル": {
-        "measurements": "B83・W57・H81"
+        "measurements": "B83・W57・H81",
+        "cn_name": "目白多伯"
     },
     "ナイスネイチャ": {
-        "measurements": "B79・W56・H80"
+        "measurements": "B79・W56・H80",
+        "cn_name": "优秀素质"
     },
     "キングヘイロー": {
-        "measurements": "B85・W60・H85"
+        "measurements": "B85・W60・H85",
+        "cn_name": "帝王光辉"
     },
     "マチカネタンホイザ": {
-        "measurements": "B80・W55・H80"
+        "measurements": "B80・W55・H80",
+        "cn_name": "诗歌剧"
     },
     "イクノディクタス": {
-        "measurements": "B75・W53・H82"
+        "measurements": "B75・W53・H82",
+        "cn_name": "狄杜斯"
     },
     "メジロパーマー": {
-        "measurements": "B84・W57・H86"
+        "measurements": "B84・W57・H86",
+        "cn_name": "目白善信"
     },
     "ダイタクヘリオス": {
-        "measurements": "B82・W53・H85"
+        "measurements": "B82・W53・H85",
+        "cn_name": "大拓太阳神"
     },
     "ツインターボ": {
-        "measurements": "B72・W51・H74"
+        "measurements": "B72・W51・H74",
+        "cn_name": "双涡轮"
     },
     "サトノダイヤモンド": {
-        "measurements": "B87・W54・H84"
+        "measurements": "B87・W54・H84",
+        "cn_name": "里见光钻"
     },
     "キタサンブラック": {
-        "measurements": "B85・W56・H88"
+        "measurements": "B85・W56・H88",
+        "cn_name": "北部玄驹"
     },
     "サクラチヨノオー": {
-        "measurements": "B80・W55・H83"
+        "measurements": "B80・W55・H83",
+        "cn_name": "樱花千代王"
     },
     "シリウスシンボリ": {
-        "measurements": "B89・W55・H86"
+        "measurements": "B89・W55・H86",
+        "cn_name": "天狼星象征"
     },
     "メジロアルダン": {
-        "measurements": "B87・W56・H85"
+        "measurements": "B87・W56・H85",
+        "cn_name": "目白阿尔丹"
     },
     "ヤエノムテキ": {
-        "measurements": "B78・W54・H81"
+        "measurements": "B78・W54・H81",
+        "cn_name": "八重无敌"
     },
     "メジロブライト": {
-        "measurements": "B84・W59・H81"
+        "measurements": "B84・W59・H81",
+        "cn_name": "目白光明"
     },
     "サクラローレル": {
-        "measurements": "B78・W54・H80"
+        "measurements": "B78・W54・H80",
+        "cn_name": ""
     },
     "ナリタトップロード": {
-        "measurements": "B86・W56・H83"
+        "measurements": "B86・W56・H83",
+        "cn_name": "成田路"
+    },
+    "ツルマルツヨシ": {
+        "measurements": "B85・W58・H86",
+        "cn_name": ""
+    },
+    "ヤマニンゼファー": {
+        "measurements": "B85・W52・H77",
+        "cn_name": ""
+    },
+    "シンボリクリスエス": {
+        "measurements": "B91・W58・H88",
+        "cn_name": ""
+    },
+    "タニノギムレット": {
+        "measurements": "B77・W56・H79",
+        "cn_name": ""
+    },
+    "駿川たづな": {
+        "measurements": "",
+        "cn_name": "骏川缰绳"
+    },
+    "桐生院葵": {
+        "measurements": "",
+        "cn_name": "桐生院葵"
+    },
+    "安心沢刺々美": {
+        "measurements": "",
+        "cn_name": "安心泽刺刺美"
+    },
+    "樫本理子": {
+        "measurements": "",
+        "cn_name": "樫本理子"
     }
 }
