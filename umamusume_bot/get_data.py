@@ -9,7 +9,7 @@ import time
 spath = os.path.split(__file__)[0]
 cache_time = {}
 
-with open("./pretty-derby/src/assert/cn.json", "r", encoding="utf8") as f:
+with open("./pretty-derby/src/assert/locales/zh_CN.json", "r", encoding="utf8") as f:
     i18n_cn = json.load(f)
 
 

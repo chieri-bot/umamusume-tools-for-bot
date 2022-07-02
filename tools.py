@@ -3,7 +3,7 @@ import math
 import sys
 from functools import partial
 from PyQt5.QtWidgets import QApplication, QWidget, QPlainTextEdit, QPushButton, QLabel, QComboBox, QCheckBox
-from race_calc import TitleData, RaceCalc
+from umamusume_bot.race_calc import TitleData, RaceCalc
 
 
 class Test(QWidget):
@@ -212,7 +212,7 @@ class Test(QWidget):
 
 
 if __name__ == '__main__':
-    with open("data_ex/titleDatas.json", "r", encoding="utf8") as f:
+    with open("umamusume_bot/data_ex/titleDatas.json", "r", encoding="utf8") as f:
         data = json.load(f)
         title_data = [TitleData(i) for i in data]  # 事件信息
     ret = RaceCalc('草泥中英短长', False).race_get()

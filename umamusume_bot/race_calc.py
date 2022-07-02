@@ -93,6 +93,34 @@ class RaceCalc(RaceScreening):
         return False
 
 
+    def race_ids_calc(self, ids: m.t.List[int]):
+        effect_titles = []
+        effect_race_ids = []
+
+        for event in self.title_data:
+            is_effect = True
+            cache_race_ids = []
+            for race_id in event.races:
+                if race_id in ids:
+                    cache_race_ids.append(race_id)
+                    continue
+                else:
+                    is_effect = False
+                    break
+            if is_effect:
+                effect_titles.append(event)
+                cache_race_ids += effect_race_ids
+
+        return effect_titles, list(set(effect_race_ids))
+
+    @staticmethod
+    def titles_score_calc(titles: m.t.List[TitleData]):
+        total_score = 0
+        for i in titles:
+            total_score += i.get_effect_value
+        return total_score
+
+
     def calc(self):
         for event in self.title_data:
             for race_id in event.races:
