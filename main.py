@@ -1,13 +1,13 @@
 import umamusume_bot
 import umamusume_skill_parser as usp
 
-
-"""
 pr = usp.UmaSkillCodeParser("cn")
+"""
+
 # print(pr.get_nature_lang("is_finalcorner==1 &corner!=0 &order_rate>=50 &order_rate<=80 &change_order_onetime<0"))
 print(pr.get_nature_lang("distance_rate>=50 &order_rate>=40 &order_rate<=80"))
 exit()
-
+"""
 
 db = umamusume_bot.load_db("./pretty-derby/src/assert/db.json")
 skills = db.skills
@@ -20,7 +20,7 @@ for s in skills:
         print(s.name, 2, r)
 
 exit()
-"""
+
 # db = umamusume_bot.load_db("./pretty-derby/src/assert/db.json")
 # print(umamusume_bot.update_database())
 

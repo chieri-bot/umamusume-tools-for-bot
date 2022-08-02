@@ -43,7 +43,7 @@ class UraraDbPlayer(BaseModel):
 class UraraDbSupport(BaseModel):
     class UraraDbSupportEffects(BaseModel):
         id: int
-        type: int
+        type: t.Optional[int] = -1
         init: int
         limit_lv5: int
         limit_lv10: int

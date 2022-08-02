@@ -562,7 +562,9 @@ class Generator:
     def get_uma_info(self, use_cache=True):
         img_interval = 20  # 图片纵向间距
         card = q.get_char_card(self.card_name)
-        save_name = f"{spath}/cache/{card.name}({card.charaName}).jpg"
+        _save_card_name = card.name.replace('/', '_').replace('\\', '_')
+        _save_char_name = card.charaName.replace('/', '_').replace('\\', '_')
+        save_name = f"{spath}/cache/{_save_card_name}({_save_char_name}).jpg"
         if use_cache:
             if os.path.isfile(save_name):
                 return save_name

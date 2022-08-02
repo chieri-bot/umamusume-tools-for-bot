@@ -113,3 +113,6 @@ class DrawTable:
         bbox = self.table.get_window_extent(self.fig.canvas.get_renderer())
         bbox_inches = bbox.transformed(self.fig.dpi_scale_trans.inverted())
         self.fig.savefig(save, dpi=dpi, bbox_inches=bbox_inches, transparent=True, facecolor="none", edgecolor='none')
+
+    def __del__(self):
+        plt.close(self.fig)
